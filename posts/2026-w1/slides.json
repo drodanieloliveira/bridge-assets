@@ -1,51 +1,67 @@
 [
- {"dia":1,"avatar":"Cleaning","slides":[
-  {"t":"capa","h":"Seu próximo cliente americano não tem WhatsApp.","s":"Ele tem Google."},
-  {"t":"Quando a casa precisa de limpeza, ele digita “house cleaning near me”."},
-  {"t":"Ele olha 3 coisas: estrelas, quantidade de reviews e fotos."},
-  {"t":"Liga para os 2 ou 3 primeiros. Quem não aparece ali não existe para ele."},
+ {"dia":1,"avatar":"Cleaning","theme":"navy","slides":[
+  {"t":"capa","h":"Seu próximo cliente americano não tem WhatsApp.","s":"Ele tem Google.",
+   "v":{"kind":"search","query":"house cleaning near me","results":[{"name":"Sparkle Home Cleaning","stars":5,"meta":"4.9 · 132 reviews"},{"name":"Fresh Nest Cleaners","stars":5,"meta":"4.8 · 87 reviews"}]}},
+  {"t":"Quando a casa precisa de limpeza, ele digita “house cleaning near me”.","v":{"kind":"icons","items":[{"icon":"home","label":"Casa"},{"icon":"search","label":"Busca"},{"icon":"phone","label":"Liga"}]}},
+  {"t":"Ele olha 3 coisas: estrelas, quantidade de reviews e fotos.","v":{"kind":"stars","score":"4.9","label":"132 reviews · fotos do serviço"}},
+  {"t":"Liga para os 2 ou 3 primeiros. Quem não aparece ali não existe para ele.",
+   "v":{"kind":"search","query":"house cleaning near me","results":[{"name":"Concorrente A","stars":5,"meta":"liga primeiro"},{"name":"Concorrente B","stars":4,"meta":"liga segundo"},{"name":"Sua empresa?","stars":0,"meta":"não aparece","hl":true}]}},
   {"t":"Grupo de brasileiros traz indicação. Google traz cliente novo todo mês."},
   {"t":"cta","h":"Quer saber como sua empresa aparece hoje?","s":"Manda GOOGLE no direct"}]},
- {"dia":2,"avatar":"Construção","slides":[
-  {"t":"capa","h":"Você é dono de construtora ou mão de obra do GC?","s":""},
-  {"t":"Subcontratado faz o serviço pesado e fica com a menor margem."},
-  {"t":"O GC atrasa o pagamento e você não tem a quem reclamar."},
-  {"t":"O homeowner que pagaria direto a você está procurando “remodeling contractor near me”."},
+
+ {"dia":2,"avatar":"Construção","theme":"cream","slides":[
+  {"t":"capa","h":"Você é dono de construtora ou mão de obra do GC?","s":"",
+   "v":{"kind":"split","cols":[{"icon":"tool","title":"Mão de obra","text":"Faz o serviço pesado, fica com a menor margem."},{"icon":"home","title":"Empresa","text":"Fecha direto com o homeowner.","hl":true}]}},
+  {"t":"Subcontratado faz o serviço pesado e fica com a menor margem.","v":{"kind":"split","cols":[{"icon":"home","title":"O GC fica com","text":"O cliente e a margem."},{"icon":"tool","title":"Você fica com","text":"O trabalho pesado.","hl":true}]}},
+  {"t":"O GC atrasa o pagamento e você não tem a quem reclamar.","v":{"kind":"notif","items":[{"app":"INVOICE","time":"30 dias","text":"Payment pending"},{"app":"INVOICE","time":"45 dias","text":"Still pending","dim":true}]}},
+  {"t":"O homeowner que pagaria direto a você está procurando “remodeling contractor near me”.",
+   "v":{"kind":"search","query":"remodeling contractor near me","results":[{"name":"Licensed & Insured · 4.9","stars":5,"meta":"orçamento grátis","hl":true}]}},
   {"t":"Canal próprio é o que separa empresa de mão de obra."},
   {"t":"cta","h":"Quer pegar obra direto do homeowner?","s":"Manda DIRETO no direct"}]},
- {"dia":3,"avatar":"Cleaning","slides":[
-  {"t":"capa","h":"Novembro decide se o seu janeiro vai ser vazio.","s":""},
+
+ {"dia":3,"avatar":"Cleaning","theme":"gold","slides":[
+  {"t":"capa","h":"Novembro decide se o seu janeiro vai ser vazio.","s":"",
+   "v":{"kind":"calendar","month":"Janeiro","marked":[3,10,24]}},
   {"t":"Depois das festas, muita casa fixa pausa o serviço."},
-  {"t":"Quem só depende de indicação sente o buraco em janeiro e fevereiro."},
+  {"t":"Quem só depende de indicação sente o buraco em janeiro e fevereiro.","v":{"kind":"bignum","n":"jan + fev","label":"os meses mais fracos fora da Flórida"}},
   {"t":"Quem aparece no Google agora pega o deep cleaning de início de ano e as mudanças."},
-  {"t":"Ainda em novembro: perfil do Google completo, review dos clientes fixos, oferta de deep clean de janeiro."},
-  {"t":"cta","h":"Quer o checklist completo?","s":"Comenta JANEIRO"}]},
- {"dia":4,"avatar":"Construção","slides":[
-  {"t":"capa","h":"3 coisas que o homeowner checa antes de te ligar.","s":""},
-  {"t":"1. Reviews no Google: menos de 10 parece empresa nova."},
-  {"t":"2. Fotos de obra real: antes e depois do seu trabalho, nada de banco de imagem."},
-  {"t":"3. “Licensed & Insured” visível no perfil e no site."},
+  {"t":"Ainda em novembro:","v":{"kind":"checklist","items":["Perfil do Google completo","Review dos clientes fixos","Oferta de deep clean de janeiro"]}},
+  {"t":"cta","h":"Quer o checklist completo?","s":"Comenta JANEIRO","theme":"navy"}]},
+
+ {"dia":4,"avatar":"Construção","theme":"navy","slides":[
+  {"t":"capa","h":"3 coisas que o homeowner checa antes de te ligar.","s":"",
+   "v":{"kind":"icons","items":[{"icon":"star","label":"Reviews"},{"icon":"camera","label":"Fotos reais"},{"icon":"shield","label":"Licensed & Insured"}]}},
+  {"t":"1. Reviews no Google: menos de 10 parece empresa nova.","v":{"kind":"stars","score":"4.9","label":"o que passa confiança: volume + nota"}},
+  {"t":"2. Fotos de obra real: antes e depois do seu trabalho, nada de banco de imagem.","v":{"kind":"split","cols":[{"icon":"camera","title":"Antes","text":"Foto do problema"},{"icon":"camera","title":"Depois","text":"Foto do seu trabalho","hl":true}]}},
+  {"t":"3. “Licensed & Insured” visível no perfil e no site.","v":{"kind":"icons","items":[{"icon":"shield","label":"Licensed"},{"icon":"check","label":"Insured"}]}},
   {"t":"Sem isso, ele liga para o concorrente que tem, mesmo cobrando mais."},
   {"t":"cta","h":"Quer que eu analise o seu perfil?","s":"Manda PERFIL no direct"}]},
- {"dia":5,"avatar":"Cleaning","slides":[
-  {"t":"capa","h":"Postar todo dia não traz cliente americano.","s":""},
+
+ {"dia":5,"avatar":"Cleaning","theme":"cream","slides":[
+  {"t":"capa","h":"Postar todo dia não traz cliente americano.","s":"",
+   "v":{"kind":"split","cols":[{"icon":"heart","title":"Curtida","text":"De outro brasileiro, muitas vezes cleaner também."},{"icon":"phone","title":"Ligação","text":"Do americano que procurou no Google.","hl":true}]}},
   {"t":"Post bonito traz curtida de brasileiro, que muitas vezes também é cleaner."},
-  {"t":"Americano não segue empresa de limpeza. Ele procura quando precisa."},
-  {"t":"Onde investir primeiro: perfil do Google, reviews, anúncio local."},
-  {"t":"Instagram é vitrine. Google é o balcão."},
+  {"t":"Americano não segue empresa de limpeza. Ele procura quando precisa.","v":{"kind":"search","query":"deep cleaning near me","results":[{"name":"Quem aparece aqui","stars":5,"meta":"recebe a ligação","hl":true}]}},
+  {"t":"Onde investir primeiro:","v":{"kind":"checklist","items":["Perfil do Google","Reviews","Anúncio local"]}},
+  {"t":"Instagram é vitrine. Google é o balcão.","v":{"kind":"icons","items":[{"icon":"heart","label":"Vitrine"},{"icon":"phone","label":"Balcão"}]}},
   {"t":"cta","h":"Quer saber por onde começar?","s":"Manda BALCÃO no direct"}]},
- {"dia":6,"avatar":"Construção","slides":[
-  {"t":"capa","h":"Seu inglês não é o problema.","s":"Seu Google é."},
+
+ {"dia":6,"avatar":"Construção","theme":"navy","slides":[
+  {"t":"capa","h":"Seu inglês não é o problema.","s":"Seu Google é.",
+   "v":{"kind":"chat","msgs":[{"text":"Hi! Do you do bathroom remodels in Worcester?","time":"9:02 AM"},{"text":"Hi Mike! Yes we do. What's your address so we can book a free estimate?","time":"9:03 AM · automático","me":true}]}},
   {"t":"Muito dono brasileiro acha que perde obra pelo sotaque."},
-  {"t":"O homeowner decide antes da conversa: perfil, fotos, reviews."},
+  {"t":"O homeowner decide antes da conversa: perfil, fotos, reviews.","v":{"kind":"icons","items":[{"icon":"search","label":"Perfil"},{"icon":"camera","label":"Fotos"},{"icon":"star","label":"Reviews"}]}},
   {"t":"Site e perfil em inglês profissional fazem a venda chegar pronta."},
-  {"t":"Mensagem automática em inglês responde o lead em minutos."},
+  {"t":"Mensagem automática em inglês responde o lead em minutos.","v":{"kind":"chat","msgs":[{"text":"Can you send a quote?","time":"6:41 PM"},{"text":"Sure! Here are 3 times for a free estimate this week.","time":"6:42 PM · automático","me":true}]}},
   {"t":"cta","h":"A gente resolve isso em português com você.","s":"Manda PONTE no direct"}]},
- {"dia":7,"avatar":"Cleaning","slides":[
-  {"t":"capa","h":"Ela pediu orçamento às 10h. Às 10h15 já tinha fechado com outra.","s":""},
+
+ {"dia":7,"avatar":"Cleaning","theme":"cream","slides":[
+  {"t":"capa","h":"Ela pediu orçamento às 10h. Às 10h15 já tinha fechado com outra.","s":"",
+   "v":{"kind":"notif","items":[{"app":"NEW QUOTE REQUEST","time":"10:00","text":"Hi! Need a cleaning for a 3-bedroom house this Friday."},{"app":"NEW QUOTE REQUEST","time":"10:15","text":"Never mind, I already booked someone. Thanks!","dim":true}]}},
   {"t":"Você está com as mãos ocupadas numa casa. O celular vibra."},
-  {"t":"Quando você responde, às 13h, ela já contratou."},
-  {"t":"Americano espera resposta em minutos, não em horas."},
-  {"t":"Resposta automática: pega nome, endereço e tamanho da casa e já oferece horário."},
+  {"t":"Quando você responde, às 13h, ela já contratou.","v":{"kind":"bignum","n":"13h","label":"3 horas depois: tarde demais"}},
+  {"t":"Americano espera resposta em minutos, não em horas.","v":{"kind":"icons","items":[{"icon":"clock","label":"Minutos"},{"icon":"check","label":"Fecha"}]}},
+  {"t":"Resposta automática: pega nome, endereço e tamanho da casa e já oferece horário.",
+   "v":{"kind":"chat","msgs":[{"text":"Need a quote for Friday","time":"10:00"},{"text":"Hi! How many bedrooms and what's the address? We have Friday 9am or 1pm.","time":"10:01 · automático","me":true}]}},
   {"t":"cta","h":"Quer ver como funciona?","s":"Manda RESPOSTA no direct"}]}
 ]

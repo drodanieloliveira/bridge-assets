@@ -3,19 +3,82 @@
   "windsor_instagram_account": "17841473230411479",
   "raw_base": "https://raw.githubusercontent.com/drodanieloliveira/bridge-assets/main/",
   "posts": [
-    {"id": "2026-w1-dia01", "date": "2026-10-28", "dir": "posts/2026-w1/dia01", "slides": 6, "approved": false, "published": false, "media_id": null, "keyword": "GOOGLE",
-     "caption": "Muita dona de cleaning trabalha bem e vive de indicação. O problema é que o cliente americano não está no grupo do Facebook nem no WhatsApp. Ele está no Google, procurando agora.\n\nManda GOOGLE no direct que eu te mostro como sua empresa aparece hoje.\n\n#brasileirosnoseua #housecleaning #cleaningbusiness #empreendedorabrasileira"},
-    {"id": "2026-w1-dia02", "date": "2026-10-29", "dir": "posts/2026-w1/dia02", "slides": 6, "approved": false, "published": false, "media_id": null, "keyword": "DIRETO",
-     "caption": "Trabalhar para GC paga as contas, mas prende você na menor margem da obra. O cliente final está procurando contractor no Google todo dia. A pergunta é se ele encontra você.\n\nManda DIRETO no direct.\n\n#brasileirosnoseua #construction #remodeling #contractor"},
-    {"id": "2026-w1-dia03", "date": "2026-10-30", "dir": "posts/2026-w1/dia03", "slides": 6, "approved": false, "published": false, "media_id": null, "keyword": "JANEIRO",
-     "caption": "Inverno é a época mais fraca para cleaning fora da Flórida. Dá para se preparar agora, não em janeiro.\n\nComenta JANEIRO que eu te mando o checklist.\n\n#brasileirosnoseua #housecleaning #deepcleaning #massachusetts"},
-    {"id": "2026-w1-dia04", "date": "2026-10-31", "dir": "posts/2026-w1/dia04", "slides": 6, "approved": false, "published": false, "media_id": null, "keyword": "PERFIL",
-     "caption": "O homeowner decide antes de falar com você. Se o seu perfil não passa confiança, o orçamento nem chega.\n\nManda PERFIL no direct que eu olho o seu.\n\n#brasileirosnoseua #contractor #remodeling #construction"},
-    {"id": "2026-w1-dia05", "date": "2026-11-01", "dir": "posts/2026-w1/dia05", "slides": 6, "approved": false, "published": false, "media_id": null, "keyword": "BALCÃO",
-     "caption": "Se você já pagou social media e não viu cliente, não é falta de post. É canal errado para o cliente certo.\n\nManda BALCÃO no direct.\n\n#brasileirosnoseua #housecleaning #cleaningbusiness #marketinglocal"},
-    {"id": "2026-w1-dia06", "date": "2026-11-02", "dir": "posts/2026-w1/dia06", "slides": 6, "approved": false, "published": false, "media_id": null, "keyword": "PONTE",
-     "caption": "Você não precisa de inglês perfeito para fechar obra. Precisa de uma presença que fale por você antes da primeira ligação.\n\nManda PONTE no direct.\n\n#brasileirosnoseua #contractor #construction #empreendedorbrasileiro"},
-    {"id": "2026-w1-dia07", "date": "2026-11-03", "dir": "posts/2026-w1/dia07", "slides": 6, "approved": false, "published": false, "media_id": null, "keyword": "RESPOSTA",
-     "caption": "Você não perde cliente por preço. Perde por demora. Dá para responder em minutos sem largar o serviço.\n\nManda RESPOSTA no direct.\n\n#brasileirosnoseua #housecleaning #cleaningbusiness #automacao"}
+    {
+      "id": "2026-w1-dia01",
+      "date": "2026-10-27",
+      "dir": "posts/2026-w1/dia01",
+      "slides": 6,
+      "approved": true,
+      "published": false,
+      "media_id": null,
+      "keyword": "GOOGLE",
+      "caption": "Muita dona de cleaning trabalha bem e vive de indicação. O problema é que o cliente americano não está no grupo do Facebook nem no WhatsApp. Ele está no Google, procurando agora.\n\nManda GOOGLE no direct que eu te mostro como sua empresa aparece hoje.\n\n#brasileirosnoseua #housecleaning #cleaningbusiness #empreendedorabrasileira"
+    },
+    {
+      "id": "2026-w1-dia02",
+      "date": "2026-10-28",
+      "dir": "posts/2026-w1/dia02",
+      "slides": 6,
+      "approved": true,
+      "published": false,
+      "media_id": null,
+      "keyword": "DIRETO",
+      "caption": "Trabalhar para GC paga as contas, mas prende você na menor margem da obra. O cliente final está procurando contractor no Google todo dia. A pergunta é se ele encontra você.\n\nManda DIRETO no direct.\n\n#brasileirosnoseua #construction #remodeling #contractor"
+    },
+    {
+      "id": "2026-w1-dia03",
+      "date": "2026-10-29",
+      "dir": "posts/2026-w1/dia03",
+      "slides": 6,
+      "approved": true,
+      "published": false,
+      "media_id": null,
+      "keyword": "JANEIRO",
+      "caption": "Inverno é a época mais fraca para cleaning fora da Flórida. Dá para se preparar agora, não em janeiro.\n\nComenta JANEIRO que eu te mando o checklist.\n\n#brasileirosnoseua #housecleaning #deepcleaning #massachusetts"
+    },
+    {
+      "id": "2026-w1-dia04",
+      "date": "2026-10-30",
+      "dir": "posts/2026-w1/dia04",
+      "slides": 6,
+      "approved": true,
+      "published": false,
+      "media_id": null,
+      "keyword": "PERFIL",
+      "caption": "O homeowner decide antes de falar com você. Se o seu perfil não passa confiança, o orçamento nem chega.\n\nManda PERFIL no direct que eu olho o seu.\n\n#brasileirosnoseua #contractor #remodeling #construction"
+    },
+    {
+      "id": "2026-w1-dia05",
+      "date": "2026-10-31",
+      "dir": "posts/2026-w1/dia05",
+      "slides": 6,
+      "approved": true,
+      "published": false,
+      "media_id": null,
+      "keyword": "BALCÃO",
+      "caption": "Se você já pagou social media e não viu cliente, não é falta de post. É canal errado para o cliente certo.\n\nManda BALCÃO no direct.\n\n#brasileirosnoseua #housecleaning #cleaningbusiness #marketinglocal"
+    },
+    {
+      "id": "2026-w1-dia06",
+      "date": "2026-11-01",
+      "dir": "posts/2026-w1/dia06",
+      "slides": 6,
+      "approved": true,
+      "published": false,
+      "media_id": null,
+      "keyword": "PONTE",
+      "caption": "Você não precisa de inglês perfeito para fechar obra. Precisa de uma presença que fale por você antes da primeira ligação.\n\nManda PONTE no direct.\n\n#brasileirosnoseua #contractor #construction #empreendedorbrasileiro"
+    },
+    {
+      "id": "2026-w1-dia07",
+      "date": "2026-11-02",
+      "dir": "posts/2026-w1/dia07",
+      "slides": 6,
+      "approved": true,
+      "published": false,
+      "media_id": null,
+      "keyword": "RESPOSTA",
+      "caption": "Você não perde cliente por preço. Perde por demora. Dá para responder em minutos sem largar o serviço.\n\nManda RESPOSTA no direct.\n\n#brasileirosnoseua #housecleaning #cleaningbusiness #automacao"
+    }
   ]
 }
