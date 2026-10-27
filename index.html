@@ -1,0 +1,261 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Bridge &amp; Co. — Clientes americanos para o seu negócio nos EUA</title>
+<meta name="description" content="A Bridge coloca o negócio de brasileiros nos EUA na frente do cliente americano no Google. Perfil, site, anúncio local e resposta ao lead em minutos, tudo em português.">
+<meta property="og:title" content="Seu negócio nos EUA ainda depende só de indicação?">
+<meta property="og:description" content="A ponte entre sua empresa e novos clientes nos EUA. Atendimento em português.">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=DM+Sans:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+:root{--navy:#0B1F3A;--navy2:#081629;--gold:#C9A24A;--gold-d:#8A6A1F;--cream:#F7F5F0;--ink:#F5F1E8;--mut:#C9D2E0;--line:#E4DFD3;--text:#3D4A5C}
+*{box-sizing:border-box;margin:0}
+html{scroll-behavior:smooth}
+body{font-family:'DM Sans',system-ui,sans-serif;background:var(--navy2);color:var(--ink);line-height:1.6;-webkit-font-smoothing:antialiased}
+a{color:inherit}
+.wrap{max-width:1120px;margin:0 auto;padding:0 20px}
+.serif{font-family:'Playfair Display',Georgia,serif;font-weight:600;line-height:1.12}
+.eyebrow{font-size:12px;letter-spacing:2.5px;text-transform:uppercase;font-weight:700;color:var(--gold)}
+.light .eyebrow{color:var(--gold-d)}
+section{padding:72px 0}
+.light{background:var(--cream);color:var(--navy)}
+.dark{background:var(--navy)}
+h2{font-size:clamp(28px,4.5vw,44px);margin:10px 0 28px}
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;min-height:52px;padding:0 28px;border-radius:8px;background:var(--gold);color:var(--navy2);font-weight:700;font-size:17px;text-decoration:none;border:0;cursor:pointer;font-family:inherit}
+.btn:hover{background:#D9B560}
+.btn-ghost{background:transparent;color:var(--gold);border:1px solid var(--gold);min-height:44px;padding:0 18px;font-size:15px}
+.btn-ghost:hover{background:rgba(201,162,74,.1)}
+.grid{display:grid;gap:16px;grid-template-columns:repeat(auto-fit,minmax(260px,1fr))}
+.card{border-radius:12px;padding:26px}
+.light .card{background:#fff;border:1px solid var(--line)}
+.dark .card{border:1px solid rgba(201,162,74,.35)}
+.card h3{font-family:'Playfair Display',Georgia,serif;font-weight:600;font-size:22px;margin-bottom:8px}
+.light .card p{color:var(--text)}
+.dark .card p{color:var(--mut)}
+header{position:sticky;top:0;z-index:10;background:rgba(8,22,41,.92);backdrop-filter:blur(8px);border-bottom:1px solid rgba(201,162,74,.2)}
+header .wrap{display:flex;align-items:center;justify-content:space-between;height:64px}
+.logo{font-family:'Playfair Display',Georgia,serif;font-size:22px;font-weight:600;text-decoration:none}
+.logo b{color:var(--gold);font-weight:500}
+.hero{background:var(--navy);padding:80px 0 72px}
+.hero h1{font-size:clamp(38px,7vw,72px);max-width:880px;margin:18px 0 22px}
+.hero h1 em{font-style:normal;color:var(--gold)}
+.hero p.lead{font-size:clamp(17px,2.4vw,20px);color:var(--mut);max-width:680px}
+.hero .cta-row{display:flex;flex-wrap:wrap;gap:14px;align-items:center;margin-top:30px}
+.hero .note{font-size:14px;color:#B8C2D3}
+.chips{display:flex;flex-wrap:wrap;gap:8px;margin-top:28px}
+.chip{padding:7px 14px;border:1px solid rgba(245,241,232,.22);border-radius:999px;font-size:14px;color:#D9DFE8}
+.search{margin-top:44px;max-width:520px;background:#13294A;border:1px solid rgba(245,241,232,.12);border-radius:16px;padding:18px}
+.search .bar{display:flex;align-items:center;gap:10px;background:#0B1F3A;border-radius:999px;padding:12px 18px;font-size:15px;color:#D9DFE8}
+.search .res{display:flex;justify-content:space-between;align-items:center;padding:14px 6px;border-bottom:1px solid rgba(245,241,232,.08);font-size:15px}
+.search .res:last-child{border:0}
+.search .res.you{border:2px solid var(--gold);border-radius:10px;padding:14px 12px;margin-top:6px}
+.stars{color:#E0A526;letter-spacing:2px;font-size:13px}
+.step-n{font-family:'Playfair Display',Georgia,serif;font-size:42px;color:var(--gold);line-height:1;margin-bottom:12px}
+.fit ul{padding-left:20px;display:grid;gap:10px;font-size:17px}
+.fit .yes h3{color:var(--gold-d)} .fit .no h3{color:#A33A2E}
+.faq details{border-bottom:1px solid rgba(245,241,232,.15);padding:18px 0}
+.faq summary{cursor:pointer;font-weight:700;font-size:18px;list-style:none;display:flex;justify-content:space-between;gap:16px}
+.faq summary::-webkit-details-marker{display:none}
+.faq summary:after{content:'+';color:var(--gold);font-size:24px;line-height:1}
+.faq details[open] summary:after{content:'−'}
+.faq p{color:var(--mut);margin-top:10px}
+form{background:#fff;border:1px solid var(--line);border-radius:14px;padding:28px;display:grid;gap:18px;margin-top:8px}
+label{display:grid;gap:7px;font-weight:500;font-size:15px;color:var(--navy)}
+input,select,textarea{font:inherit;font-size:16px;color:var(--navy);background:#fff;border:1px solid #CFC8B8;border-radius:8px;min-height:48px;padding:10px 14px;width:100%}
+textarea{min-height:96px;resize:vertical}
+input:focus,select:focus,textarea:focus{outline:2px solid var(--gold);outline-offset:1px;border-color:var(--gold)}
+.err{color:#A33A2E;font-size:14px;display:none}
+form .btn{background:var(--navy);color:var(--ink);width:100%;min-height:56px}
+form .btn:hover{background:#13294A}
+.small{font-size:13px;color:#5A6575}
+.done{display:none;background:#fff;border:1px solid var(--line);border-radius:14px;padding:32px;text-align:left}
+.done h3{font-family:'Playfair Display',Georgia,serif;font-size:30px;margin:8px 0 12px}
+.done p{color:var(--text)}
+footer{background:var(--navy2);border-top:1px solid rgba(201,162,74,.2);padding:32px 0;font-size:14px;color:#B8C2D3}
+footer .wrap{display:flex;flex-wrap:wrap;gap:12px;justify-content:space-between;align-items:center}
+@media (max-width:600px){section{padding:56px 0}.hero{padding:56px 0}form{padding:20px}.card{padding:22px}}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="wrap">
+    <a class="logo" href="#topo">Bridge <b>&amp;</b> Co.</a>
+    <a class="btn btn-ghost" href="#aplicacao">Aplicar</a>
+  </div>
+</header>
+
+<section class="hero" id="topo">
+  <div class="wrap">
+    <div class="eyebrow">Para donos brasileiros de negócios nos EUA</div>
+    <h1 class="serif">Seu negócio nos EUA ainda depende <em>só de indicação?</em></h1>
+    <p class="lead">A Bridge coloca sua empresa na frente do cliente americano no Google: perfil, site, anúncio local e resposta ao lead em minutos. Tudo explicado e resolvido em português.</p>
+    <div class="cta-row">
+      <a class="btn" href="#aplicacao">Começar aplicação →</a>
+      <span class="note">2 minutos · vagas limitadas por cidade</span>
+    </div>
+    <div class="chips">
+      <span class="chip">House cleaning</span>
+      <span class="chip">Construção e remodeling</span>
+      <span class="chip">Estética</span>
+    </div>
+    <div class="search" aria-hidden="true">
+      <div class="bar">⌕&nbsp; house cleaning near me</div>
+      <div class="res"><span>Concorrente A<br><span class="stars">★★★★★</span></span><span style="color:#C9A24A">●</span></div>
+      <div class="res"><span>Concorrente B<br><span class="stars">★★★★☆</span></span><span style="color:#C9A24A">●</span></div>
+      <div class="res you"><span><b>Sua empresa aqui</b><br><span class="stars">★★★★★</span></span><span style="color:#C9A24A">●</span></div>
+    </div>
+  </div>
+</section>
+
+<section class="light">
+  <div class="wrap">
+    <div class="eyebrow">O problema</div>
+    <h2 class="serif">Seu serviço é bom. O cliente americano é que não te encontra.</h2>
+    <div class="grid">
+      <div class="card"><h3>Indicação acaba sem aviso</h3><p>Um cliente fixo muda de cidade e a semana fica com buraco. Sem um canal próprio, você volta a depender da sorte.</p></div>
+      <div class="card"><h3>Post bonito não traz cliente</h3><p>O americano procura serviço no Google, olha suas reviews e liga. Ele não está no grupo de brasileiros do Facebook.</p></div>
+      <div class="card"><h3>Lead que espera vai embora</h3><p>Quem pede orçamento espera resposta em minutos. Se você está no serviço, ele já chamou o concorrente.</p></div>
+    </div>
+  </div>
+</section>
+
+<section class="dark">
+  <div class="wrap">
+    <div class="eyebrow">Como funciona</div>
+    <h2 class="serif">A Ponte, em 3 passos</h2>
+    <div class="grid">
+      <div class="card"><div class="step-n">01</div><h3>Fundação</h3><p>Marca, site em inglês e perfil do Google otimizado. Sua empresa passa a parecer o que ela é: profissional.</p></div>
+      <div class="card"><div class="step-n">02</div><h3>Visibilidade</h3><p>Anúncio local no Google para você aparecer quando procuram o seu serviço na sua região.</p></div>
+      <div class="card"><div class="step-n">03</div><h3>Resposta</h3><p>O lead recebe resposta automática em inglês em até 5 minutos. Você só confirma o serviço.</p></div>
+    </div>
+  </div>
+</section>
+
+<section class="light">
+  <div class="wrap">
+    <div class="eyebrow">O que entra</div>
+    <h2 class="serif">Tudo que o americano olha antes de te ligar</h2>
+    <div class="grid">
+      <div class="card"><h3>Perfil do Google</h3><p>Fotos reais, serviços, área de atendimento, horários e um processo simples para pedir review a cada cliente.</p></div>
+      <div class="card"><h3>Site em inglês</h3><p>Rápido, feito para celular, com "Licensed &amp; Insured", fotos do seu trabalho e botão de orçamento.</p></div>
+      <div class="card"><h3>Anúncio local</h3><p>Google Local Services ou Google Ads, com verba controlada e relatório mensal de pedidos de orçamento.</p></div>
+      <div class="card"><h3>Resposta em minutos</h3><p>Mensagem automática por SMS e e-mail para cada novo pedido, com perguntas e horários. Você fecha.</p></div>
+    </div>
+  </div>
+</section>
+
+<section class="light fit" style="padding-top:0">
+  <div class="wrap grid">
+    <div class="card yes"><h3>É para você se</h3>
+      <ul><li>Você tem um negócio de serviço ativo nos EUA</li><li>Quer atender cliente americano, não só a comunidade</li><li>Consegue atender mais clientes do que tem hoje</li><li>Tem verba para investir em anúncio todo mês</li></ul></div>
+    <div class="card no"><h3>Não é para você se</h3>
+      <ul><li>Procura só um logo barato</li><li>Quer resultado sem atender o telefone</li><li>Não tem como responder orçamento no mesmo dia</li></ul></div>
+  </div>
+</section>
+
+<section class="dark faq">
+  <div class="wrap" style="max-width:820px">
+    <div class="eyebrow">Dúvidas</div>
+    <h2 class="serif">Perguntas frequentes</h2>
+    <details><summary>Já paguei agência e não veio cliente. O que muda?</summary><p>A gente não vende post. O foco é onde o americano procura serviço: Google, perfil e reviews. E você acompanha cada pedido de orçamento que chegou.</p></details>
+    <details><summary>Meu inglês não é bom. Isso atrapalha?</summary><p>Todo o atendimento com a Bridge é em português. Site, anúncio e mensagens para o cliente final saem em inglês nativo.</p></details>
+    <details><summary>Não tenho tempo de responder mensagem.</summary><p>Por isso o primeiro contato é automático. O lead recebe resposta em minutos e você entra só para confirmar data e preço.</p></details>
+    <details><summary>Quanto custa?</summary><p>Depende da cidade, do serviço e da verba de anúncio. Os planos são apresentados na conversa, depois de entender o seu negócio.</p></details>
+    <details><summary>Vocês atendem qualquer cidade?</summary><p>Atendemos todo o país, mas limitamos quantos clientes do mesmo serviço atendemos por cidade, para não colocar um cliente contra o outro.</p></details>
+  </div>
+</section>
+
+<section class="light" id="aplicacao">
+  <div class="wrap" style="max-width:720px">
+    <div class="eyebrow">Aplicação</div>
+    <h2 class="serif">Vamos ver se a Bridge é para o seu negócio</h2>
+    <p style="color:var(--text)">Responda em 2 minutos. Ao enviar, suas respostas abrem numa conversa direta com o Daniel.</p>
+
+    <form id="f" novalidate>
+      <label>1. Seu nome<input name="nome" autocomplete="name" placeholder="Ana Souza" required></label>
+      <label>2. WhatsApp com DDI<input name="whatsapp" type="tel" autocomplete="tel" placeholder="+1 (508) 555-0134" required></label>
+      <label>3. Tipo de negócio
+        <select name="nicho" required><option value="">Selecione</option><option>House cleaning</option><option>Construção ou remodeling</option><option>Estética</option><option>Outro serviço local</option></select></label>
+      <label>4. Cidade e estado<input name="cidade" placeholder="Framingham, MA" required></label>
+      <label>5. Há quanto tempo o negócio existe
+        <select name="tempo" required><option value="">Selecione</option><option>Menos de 1 ano</option><option>1 a 3 anos</option><option>Mais de 3 anos</option></select></label>
+      <label>6. De onde vêm seus clientes hoje
+        <select name="origem" required><option value="">Selecione</option><option>Só indicação</option><option>Grupos de Facebook</option><option>Google</option><option>Anúncios</option><option>Mistura</option></select></label>
+      <label>7. Quanto pode investir por mês em marketing e anúncio
+        <select name="verba" required><option value="">Selecione</option><option>Menos de US$500</option><option>US$500 a US$1.000</option><option>US$1.000 a US$2.000</option><option>Mais de US$2.000</option></select></label>
+      <label>8. O que mais trava o crescimento hoje<textarea name="trava" placeholder="Fico sem cliente novo quando a indicação para"></textarea></label>
+      <p class="err" id="err">Preencha os campos de 1 a 7 para continuar.</p>
+      <button class="btn" type="submit">Enviar aplicação →</button>
+      <p class="small">Seus dados são usados só para entrar em contato sobre a aplicação.</p>
+    </form>
+
+    <div class="done" id="done" role="status">
+      <div class="eyebrow">Aplicação pronta</div>
+      <h3>Agora é só enviar a mensagem</h3>
+      <p id="done-txt">Abrimos a conversa com o Daniel com suas respostas. Se ela não abriu, toque no botão abaixo.</p>
+      <p style="margin-top:20px"><a class="btn" id="done-btn" href="#" target="_blank" rel="noopener">Abrir conversa</a></p>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    <span class="logo" style="font-size:18px">Daniel Oliveira | Bridge <b>&amp;</b> Co.</span>
+    <span>A ponte entre sua empresa e novos clientes nos EUA.</span>
+    <a href="https://www.instagram.com/danielbridgeco/" target="_blank" rel="noopener">@danielbridgeco</a>
+  </div>
+</footer>
+
+<script>
+// CONFIG — número de WhatsApp do Daniel só com dígitos e DDI (ex.: "15085550134").
+// Vazio = a aplicação abre o direct do Instagram.
+const WHATSAPP = "";
+const INSTAGRAM = "danielbridgeco";
+
+const params = new URLSearchParams(location.search);
+const fonte = params.get("ref") || params.get("utm_content") || params.get("utm_source") || "site";
+
+document.getElementById("f").addEventListener("submit", function (ev) {
+  ev.preventDefault();
+  const d = Object.fromEntries(new FormData(this));
+  const required = ["nome","whatsapp","nicho","cidade","tempo","origem","verba"];
+  if (required.some(k => !String(d[k] || "").trim())) {
+    document.getElementById("err").style.display = "block";
+    return;
+  }
+  const msg =
+`Olá, Daniel! Fiz a aplicação no site da Bridge.
+Nome: ${d.nome}
+WhatsApp: ${d.whatsapp}
+Negócio: ${d.nicho}
+Cidade: ${d.cidade}
+Tempo de negócio: ${d.tempo}
+Clientes vêm de: ${d.origem}
+Verba mensal: ${d.verba}
+Maior trava: ${(d.trava || "-").trim()}
+Origem: ${fonte}`;
+
+  let url, txt;
+  if (WHATSAPP) {
+    url = "https://wa.me/" + WHATSAPP + "?text=" + encodeURIComponent(msg);
+    txt = "Abrimos o WhatsApp do Daniel com suas respostas. É só tocar em enviar. Se não abriu, use o botão abaixo.";
+  } else {
+    url = "https://ig.me/m/" + INSTAGRAM;
+    try { navigator.clipboard && navigator.clipboard.writeText(msg); } catch (e) {}
+    txt = "Suas respostas foram copiadas. Abra o direct do @" + INSTAGRAM + ", cole e envie.";
+  }
+  document.getElementById("done-txt").textContent = txt;
+  document.getElementById("done-btn").href = url;
+  this.style.display = "none";
+  document.getElementById("done").style.display = "block";
+  document.getElementById("done").scrollIntoView({ behavior: "smooth", block: "center" });
+  window.open(url, "_blank", "noopener");
+});
+</script>
+</body>
+</html>
