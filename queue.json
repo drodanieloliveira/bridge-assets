@@ -35,11 +35,12 @@
       "dir": "posts/2026-w1/dia03",
       "slides": 6,
       "approved": true,
-      "published": false,
-      "media_id": null,
+      "published": true,
+      "media_id": "17896335171612742",
       "keyword": "JANEIRO",
       "caption": "Inverno é a época mais fraca para cleaning fora da Flórida. Dá para se preparar agora, não em janeiro.\n\nComenta JANEIRO que eu te mando o checklist.\n\n#brasileirosnoseua #housecleaning #deepcleaning #massachusetts",
-      "slot": "manha"
+      "slot": "manha",
+      "published_at": "2026-10-29T09:02:09-04:00"
     },
     {
       "id": "2026-w1-dia04",
