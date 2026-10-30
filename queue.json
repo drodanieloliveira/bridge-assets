@@ -48,11 +48,12 @@
       "dir": "posts/2026-w1/dia04",
       "slides": 6,
       "approved": true,
-      "published": false,
-      "media_id": null,
+      "published": true,
+      "media_id": "17900015691655699",
       "keyword": "PERFIL",
       "caption": "O homeowner decide antes de falar com você. Se o seu perfil não passa confiança, o orçamento nem chega.\n\nManda PERFIL no direct que eu olho o seu.\n\n#brasileirosnoseua #contractor #remodeling #construction",
-      "slot": "manha"
+      "slot": "manha",
+      "published_at": "2026-10-30T12:52:12+00:00"
     },
     {
       "id": "2026-w1-dia05",
