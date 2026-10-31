@@ -61,11 +61,12 @@
       "dir": "posts/2026-w1/dia05",
       "slides": 6,
       "approved": true,
-      "published": false,
-      "media_id": null,
+      "published": true,
+      "media_id": "18144784084719089",
       "keyword": "BALCÃO",
       "caption": "Se você já pagou social media e não viu cliente, não é falta de post. É canal errado para o cliente certo.\n\nManda BALCÃO no direct.\n\n#brasileirosnoseua #housecleaning #cleaningbusiness #marketinglocal",
-      "slot": "manha"
+      "slot": "manha",
+      "published_at": "2026-10-31T12:50:05+00:00"
     },
     {
       "id": "2026-w1-dia06",
