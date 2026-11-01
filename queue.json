@@ -74,11 +74,12 @@
       "dir": "posts/2026-w1/dia06",
       "slides": 6,
       "approved": true,
-      "published": false,
-      "media_id": null,
+      "published": true,
+      "media_id": "17935968942146081",
       "keyword": "PONTE",
       "caption": "Você não precisa de inglês perfeito para fechar obra. Precisa de uma presença que fale por você antes da primeira ligação.\n\nManda PONTE no direct.\n\n#brasileirosnoseua #contractor #construction #empreendedorbrasileiro",
-      "slot": "manha"
+      "slot": "manha",
+      "published_at": "2026-11-01T13:49:14+00:00"
     },
     {
       "id": "2026-w1-dia07",
