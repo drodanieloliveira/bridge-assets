@@ -41,7 +41,11 @@
     }
    },
    {
-    "t": "Sem baixar preço para pegar serviço."
+    "t": "Sem baixar preço para pegar serviço.",
+    "v": {
+     "kind": "photo",
+     "src": "fotos/obra-serra.jpg"
+    }
    },
    {
     "t": "Com pedido de orçamento chegando de homeowner da sua região.",
@@ -105,21 +109,8 @@
    {
     "t": "Quem vai receber a família quer a casa pronta antes. E marca com antecedência.",
     "v": {
-     "kind": "icons",
-     "items": [
-      {
-       "icon": "home",
-       "label": "Recebe a família"
-      },
-      {
-       "icon": "clock",
-       "label": "Marca antes"
-      },
-      {
-       "icon": "check",
-       "label": "Casa pronta"
-      }
-     ]
+     "kind": "photo",
+     "src": "fotos/jantar.jpg"
     }
    },
    {
@@ -187,21 +178,8 @@
    {
     "t": "Peça no dia do serviço, com a casa ainda brilhando.",
     "v": {
-     "kind": "icons",
-     "items": [
-      {
-       "icon": "home",
-       "label": "Casa brilhando"
-      },
-      {
-       "icon": "clock",
-       "label": "Mesmo dia"
-      },
-      {
-       "icon": "star",
-       "label": "Review"
-      }
-     ]
+     "kind": "photo",
+     "src": "fotos/sala-limpa.jpg"
     }
    },
    {
@@ -270,7 +248,11 @@
     }
    },
    {
-    "t": "Quem não pode ou não quer vender tende a reformar para ficar."
+    "t": "Quem não pode ou não quer vender tende a reformar para ficar.",
+    "v": {
+     "kind": "photo",
+     "src": "fotos/cozinha-moderna.jpg"
+    }
    },
    {
     "t": "Harvard (LIRA) projeta gasto com reforma em torno de US$ 525 bi até o 3º tri de 2027. Mercado parado, não morto.",
@@ -672,7 +654,11 @@
     }
    },
    {
-    "t": "É justamente quando o homeowner planeja a reforma da primavera."
+    "t": "É justamente quando o homeowner planeja a reforma da primavera.",
+    "v": {
+     "kind": "photo",
+     "src": "fotos/casa-neve.jpg"
+    }
    },
    {
     "t": "Quem aparece no Google agora entra na lista de orçamentos de março.",
@@ -810,7 +796,11 @@
     }
    },
    {
-    "t": "Cliente americano paga mais para quem passa confiança."
+    "t": "Cliente americano paga mais para quem passa confiança.",
+    "v": {
+     "kind": "photo",
+     "src": "fotos/produtos-limpeza.jpg"
+    }
    },
    {
     "t": "Confiança = marca, site, reviews, \"insured & bonded\".",
@@ -893,7 +883,11 @@
     }
    },
    {
-    "t": "Ou seja: o que aparece direto na busca pesa mais do que nunca."
+    "t": "Ou seja: o que aparece direto na busca pesa mais do que nunca.",
+    "v": {
+     "kind": "photo",
+     "src": "fotos/cozinha-reformada.jpg"
+    }
    },
    {
     "t": "O que aparece direto:",
@@ -1059,7 +1053,11 @@
     }
    },
    {
-    "t": "E dá para fazer isso sem ficar presa no celular."
+    "t": "E dá para fazer isso sem ficar presa no celular.",
+    "v": {
+     "kind": "photo",
+     "src": "fotos/limpeza-bancada.jpg"
+    }
    },
    {
     "t": "Salve uma mensagem pronta com 2 perguntas.",

@@ -3,7 +3,7 @@ uso: python3 tools/render.py posts/<semana>/slides.json <pasta_saida> tools/font
 
 Cada post: {"dia", "avatar", "theme": navy|cream|gold, "slides": [...]}
 Cada slide: {"t": "capa"|"cta"|<texto>, "h", "s", "v": {visual opcional}}
-Visuais ("v.kind"): search, split, calendar, checklist, notif, chat, icons, bignum, stars
+Visuais ("v.kind"): search, split, calendar, checklist, notif, chat, icons, bignum, stars, photo (src relativo ao slides.json, h opcional)
 """
 import json, sys, base64, html
 from pathlib import Path
@@ -106,6 +106,12 @@ def visual(v, th):
         items = "".join(f'<div class="card" style="flex:1;display:flex;flex-direction:column;align-items:center;gap:18px;padding:40px 20px">'
                         f'{icon(i["icon"],90,th["acc"])}<div style="font-size:30px;font-weight:700;text-align:center">{e(i["label"])}</div></div>' for i in v["items"])
         return f'<div class="row" style="align-items:stretch">{items}</div>'
+    if k == "photo":
+        src = Path(posts_file).parent / v["src"]
+        uri = "data:image/jpeg;base64," + base64.b64encode(src.read_bytes()).decode()
+        h = v.get("h", 600)
+        return (f'<div style="height:{h}px;border-radius:22px;overflow:hidden;border:1px solid {th["line"]};'
+                f'background:url({uri}) center/cover no-repeat"></div>')
     if k == "bignum":
         return (f'<div><div style="font-family:PF;font-size:220px;line-height:1;color:{th["acc"]}">{e(v["n"])}</div>'
                 f'<div class="muted" style="font-size:34px;margin-top:16px">{e(v.get("label",""))}</div></div>')
