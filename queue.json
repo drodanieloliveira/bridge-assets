@@ -87,11 +87,12 @@
       "dir": "posts/2026-w1/dia07",
       "slides": 6,
       "approved": true,
-      "published": false,
-      "media_id": null,
+      "published": true,
+      "media_id": "18120369518090708",
       "keyword": "RESPOSTA",
       "caption": "Você não perde cliente por preço. Perde por demora. Dá para responder em minutos sem largar o serviço.\n\nManda RESPOSTA no direct.\n\n#brasileirosnoseua #housecleaning #cleaningbusiness #automacao",
-      "slot": "manha"
+      "slot": "manha",
+      "published_at": "2026-11-02T09:22:52-05:00"
     },
     {
       "id": "2026-w2-dia08",
