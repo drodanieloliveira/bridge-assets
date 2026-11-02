@@ -85,7 +85,7 @@ def visual(v, th):
         marked = set(v.get("marked", []))
         cells = "".join(f'<div style="height:78px;border-radius:12px;display:flex;align-items:center;justify-content:center;font-size:28px;'
                         f'{"background:"+th["acc"]+";color:"+th["bg"]+";font-weight:700" if d in marked else "border:1px dashed "+th["line"]+";color:"+th["mut"]}">{d}</div>'
-                        for d in range(1, 32))
+                        for d in range(1, v.get("days", 31) + 1))
         return (f'<div class="card"><div style="font-family:PF;font-size:44px;margin-bottom:22px">{e(v["month"])}</div>'
                 f'<div style="display:grid;grid-template-columns:repeat(7,1fr);gap:10px">{cells}</div></div>')
     if k == "checklist":
@@ -139,7 +139,7 @@ with sync_playwright() as p:
     b = p.chromium.launch()
     pg = b.new_page(viewport={"width": 1080, "height": 1350})
     for post in posts:
-        d = out_dir / f"dia{post['dia']:02d}"
+        d = out_dir / (f"dia{post['dia']:02d}" + ("-noite" if post.get("slot") == "noite" else ""))
         d.mkdir(exist_ok=True)
         n = len(post["slides"])
         for i, sl in enumerate(post["slides"], 1):

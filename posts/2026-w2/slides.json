@@ -1,0 +1,1108 @@
+[
+ {
+  "dia": 8,
+  "slot": "manha",
+  "avatar": "Construção",
+  "theme": "navy",
+  "slides": [
+   {
+    "t": "capa",
+    "h": "Como seria ter obra marcada para os próximos meses?",
+    "s": "",
+    "v": {
+     "kind": "calendar",
+     "month": "Dezembro",
+     "days": 31,
+     "marked": [
+      1,
+      2,
+      3,
+      8,
+      9,
+      10,
+      15,
+      16,
+      17
+     ]
+    }
+   },
+   {
+    "t": "Sem esperar o GC ligar.",
+    "v": {
+     "kind": "notif",
+     "items": [
+      {
+       "app": "GC",
+       "time": "há 2 semanas",
+       "text": "I'll call you next week about the job.",
+       "dim": true
+      }
+     ]
+    }
+   },
+   {
+    "t": "Sem baixar preço para pegar serviço."
+   },
+   {
+    "t": "Com pedido de orçamento chegando de homeowner da sua região.",
+    "v": {
+     "kind": "notif",
+     "items": [
+      {
+       "app": "NEW QUOTE REQUEST",
+       "time": "9:14",
+       "text": "Hi! Looking for a bathroom remodel quote. Are you available for a visit?"
+      }
+     ]
+    }
+   },
+   {
+    "t": "Não é sorte: perfil do Google + anúncio local + resposta rápida.",
+    "v": {
+     "kind": "icons",
+     "items": [
+      {
+       "icon": "pin",
+       "label": "Perfil do Google"
+      },
+      {
+       "icon": "search",
+       "label": "Anúncio local"
+      },
+      {
+       "icon": "clock",
+       "label": "Resposta rápida"
+      }
+     ]
+    }
+   },
+   {
+    "t": "cta",
+    "h": "Quer obra direto, sem depender do GC?",
+    "s": "Manda AGENDA no direct"
+   }
+  ]
+ },
+ {
+  "dia": 8,
+  "slot": "noite",
+  "avatar": "Cleaning",
+  "theme": "gold",
+  "slides": [
+   {
+    "t": "capa",
+    "h": "Thanksgiving é dia 26. A cliente já está pensando na casa.",
+    "s": "E você, já ofereceu?",
+    "v": {
+     "kind": "calendar",
+     "month": "Novembro",
+     "days": 30,
+     "marked": [
+      26
+     ]
+    }
+   },
+   {
+    "t": "Quem vai receber a família quer a casa pronta antes. E marca com antecedência.",
+    "v": {
+     "kind": "icons",
+     "items": [
+      {
+       "icon": "home",
+       "label": "Recebe a família"
+      },
+      {
+       "icon": "clock",
+       "label": "Marca antes"
+      },
+      {
+       "icon": "check",
+       "label": "Casa pronta"
+      }
+     ]
+    }
+   },
+   {
+    "t": "Não espere ela pedir. Crie um serviço com nome e prazo (exemplo):",
+    "v": {
+     "kind": "checklist",
+     "items": [
+      "Nome: Pre-Holiday Deep Clean",
+      "Prazo: agenda até 20/11",
+      "2 ou 3 datas para escolher"
+     ]
+    }
+   },
+   {
+    "t": "Mande primeiro para quem já é cliente, por SMS.",
+    "v": {
+     "kind": "chat",
+     "msgs": [
+      {
+       "text": "Hi Sarah! I'm opening a few spots for a Pre-Holiday Deep Clean before Thanksgiving: Nov 18, 19 or 20. Want me to save one for you?",
+       "time": "SMS",
+       "me": true
+      }
+     ]
+    }
+   },
+   {
+    "t": "Coloque o mesmo serviço no perfil do Google e no site, para quem está procurando agora.",
+    "v": {
+     "kind": "search",
+     "query": "holiday deep cleaning near me",
+     "results": [
+      {
+       "name": "Pre-Holiday Deep Clean",
+       "stars": 5,
+       "meta": "agenda até 20/11",
+       "hl": true
+      }
+     ]
+    }
+   },
+   {
+    "t": "cta",
+    "h": "Quer o texto pronto em inglês?",
+    "s": "Manda NOVEMBRO no direct"
+   }
+  ]
+ },
+ {
+  "dia": 9,
+  "slot": "manha",
+  "avatar": "Cleaning",
+  "theme": "cream",
+  "slides": [
+   {
+    "t": "capa",
+    "h": "Como pedir review sem parecer chata.",
+    "s": "",
+    "v": {
+     "kind": "stars",
+     "score": "5 estrelas",
+     "label": "pedida no momento certo"
+    }
+   },
+   {
+    "t": "Peça no dia do serviço, com a casa ainda brilhando.",
+    "v": {
+     "kind": "icons",
+     "items": [
+      {
+       "icon": "home",
+       "label": "Casa brilhando"
+      },
+      {
+       "icon": "clock",
+       "label": "Mesmo dia"
+      },
+      {
+       "icon": "star",
+       "label": "Review"
+      }
+     ]
+    }
+   },
+   {
+    "t": "Mande o link direto por SMS: americano não abre WhatsApp."
+   },
+   {
+    "t": "Texto pronto: \"Hi Sarah! Thanks for having us today. Would you mind leaving a quick review? It really helps our small business.\""
+   },
+   {
+    "t": "Responda toda review, inclusive a ruim, com educação.",
+    "v": {
+     "kind": "chat",
+     "msgs": [
+      {
+       "text": "1 star: they arrived late.",
+       "time": "review"
+      },
+      {
+       "text": "Thank you for the feedback. We're sorry about the delay and we'd love the chance to make it right.",
+       "time": "sua resposta",
+       "me": true
+      }
+     ]
+    }
+   },
+   {
+    "t": "cta",
+    "h": "Quer o modelo completo?",
+    "s": "Comenta REVIEW"
+   }
+  ]
+ },
+ {
+  "dia": 9,
+  "slot": "noite",
+  "avatar": "Construção",
+  "theme": "navy",
+  "slides": [
+   {
+    "t": "capa",
+    "h": "Ele não vai vender a casa. Vai reformar.",
+    "s": "E esse homeowner pode ser seu cliente.",
+    "v": {
+     "kind": "split",
+     "cols": [
+      {
+       "icon": "home",
+       "title": "Vender",
+       "text": "Juros altos e casa cara travam a mudança."
+      },
+      {
+       "icon": "tool",
+       "title": "Reformar",
+       "text": "Mais espaço sem trocar de endereço.",
+       "hl": true
+      }
+     ]
+    }
+   },
+   {
+    "t": "Juros de 30 anos em média 7,18% (NerdWallet, 30/10). Muita gente adiou a mudança.",
+    "v": {
+     "kind": "bignum",
+     "n": "7,18%",
+     "label": "juros médios de 30 anos · NerdWallet, 30/10/2026"
+    }
+   },
+   {
+    "t": "Quem não pode ou não quer vender tende a reformar para ficar."
+   },
+   {
+    "t": "Harvard (LIRA) projeta gasto com reforma em torno de US$ 525 bi até o 3º tri de 2027. Mercado parado, não morto.",
+    "v": {
+     "kind": "bignum",
+     "n": "525 bi",
+     "label": "US$ bilhões/ano projetados em reforma e reparo · Harvard JCHS"
+    }
+   },
+   {
+    "t": "Mude o discurso para quem vai ficar:",
+    "v": {
+     "kind": "checklist",
+     "items": [
+      "More space without moving",
+      "A new kitchen, same address",
+      "Finish the basement, gain a room"
+     ]
+    }
+   },
+   {
+    "t": "cta",
+    "h": "Quer as frases prontas para o seu site?",
+    "s": "Manda REFORMA no direct"
+   }
+  ]
+ },
+ {
+  "dia": 10,
+  "slot": "manha",
+  "avatar": "Construção",
+  "theme": "gold",
+  "slides": [
+   {
+    "t": "capa",
+    "h": "Esse lead também foi vendido para seus concorrentes.",
+    "s": "",
+    "v": {
+     "kind": "notif",
+     "items": [
+      {
+       "app": "NEW LEAD",
+       "time": "Empresa A",
+       "text": "Kitchen remodel · homeowner"
+      },
+      {
+       "app": "NEW LEAD",
+       "time": "Empresa B",
+       "text": "Kitchen remodel · mesmo pedido"
+      },
+      {
+       "app": "NEW LEAD",
+       "time": "Você",
+       "text": "Kitchen remodel · mesmo pedido"
+      }
+     ]
+    }
+   },
+   {
+    "t": "Plataformas de lead vendem o mesmo pedido para várias empresas.",
+    "v": {
+     "kind": "icons",
+     "items": [
+      {
+       "icon": "tool",
+       "label": "Empresa A"
+      },
+      {
+       "icon": "tool",
+       "label": "Empresa B"
+      },
+      {
+       "icon": "tool",
+       "label": "Você"
+      }
+     ]
+    }
+   },
+   {
+    "t": "Resultado: guerra de preço e corrida para ligar primeiro."
+   },
+   {
+    "t": "O lead do seu próprio anúncio é só seu.",
+    "v": {
+     "kind": "split",
+     "cols": [
+      {
+       "icon": "phone",
+       "title": "Compartilhado",
+       "text": "Mesmo pedido, várias empresas."
+      },
+      {
+       "icon": "check",
+       "title": "Próprio",
+       "text": "O homeowner chega só para você.",
+       "hl": true
+      }
+     ]
+    }
+   },
+   {
+    "t": "Canal próprio = margem própria."
+   },
+   {
+    "t": "cta",
+    "h": "Quer lead só seu?",
+    "s": "Manda LEAD no direct"
+   }
+  ]
+ },
+ {
+  "dia": 10,
+  "slot": "noite",
+  "avatar": "Cleaning",
+  "theme": "cream",
+  "slides": [
+   {
+    "t": "capa",
+    "h": "Seu cliente vai poder te mandar mensagem direto do Google.",
+    "s": "",
+    "v": {
+     "kind": "notif",
+     "items": [
+      {
+       "app": "NOVA MENSAGEM",
+       "time": "agora",
+       "text": "Hi! Do you have availability this Saturday?"
+      }
+     ]
+    }
+   },
+   {
+    "t": "Desde 29/10, o Google está ampliando mensagens com IA no perfil de negócio. Aos poucos: nem todo perfil tem ainda.",
+    "v": {
+     "kind": "icons",
+     "items": [
+      {
+       "icon": "phone",
+       "label": "Cliente manda texto"
+      },
+      {
+       "icon": "clock",
+       "label": "IA responde o simples"
+      },
+      {
+       "icon": "check",
+       "label": "Você assume o resto"
+      }
+     ]
+    }
+   },
+   {
+    "t": "A IA responde pergunta simples, como disponibilidade. O resto vai para você, que pode assumir quando quiser.",
+    "v": {
+     "kind": "chat",
+     "msgs": [
+      {
+       "text": "Do you clean on Saturdays?",
+       "time": "cliente"
+      },
+      {
+       "text": "Yes, we have openings this Saturday. The owner will confirm your quote shortly.",
+       "time": "resposta automática (exemplo)",
+       "me": true
+      }
+     ]
+    }
+   },
+   {
+    "t": "Alguns negócios estão recebendo pedido de EIN e de política de privacidade antes de liberar. A análise leva de 3 a 4 dias úteis.",
+    "v": {
+     "kind": "bignum",
+     "n": "3–4",
+     "label": "dias úteis de análise, segundo relatos de 28/10"
+    }
+   },
+   {
+    "t": "Deixe pronto:",
+    "v": {
+     "kind": "checklist",
+     "items": [
+      "EIN da empresa à mão",
+      "Política de privacidade no site",
+      "Notificação ligada no celular"
+     ]
+    }
+   },
+   {
+    "t": "cta",
+    "h": "Quer o passo a passo para ativar?",
+    "s": "Manda MENSAGEM no direct"
+   }
+  ]
+ },
+ {
+  "dia": 11,
+  "slot": "manha",
+  "avatar": "Cleaning",
+  "theme": "navy",
+  "slides": [
+   {
+    "t": "capa",
+    "h": "Mesmo serviço. Dois perfis. Qual você chamaria?",
+    "s": "(exemplo ilustrativo)",
+    "v": {
+     "kind": "split",
+     "cols": [
+      {
+       "icon": "home",
+       "title": "Perfil A",
+       "text": "Sem foto, 3 reviews."
+      },
+      {
+       "icon": "star",
+       "title": "Perfil B",
+       "text": "Fotos reais, reviews respondidas.",
+       "hl": true
+      }
+     ]
+    }
+   },
+   {
+    "t": "Perfil A: sem foto, 3 reviews, sem horário.",
+    "v": {
+     "kind": "search",
+     "query": "house cleaning near me",
+     "results": [
+      {
+       "name": "Perfil A",
+       "stars": 3,
+       "meta": "3 reviews · sem horário"
+      }
+     ]
+    }
+   },
+   {
+    "t": "Perfil B: fotos reais, dezenas de reviews respondidas, horários e serviços listados.",
+    "v": {
+     "kind": "search",
+     "query": "house cleaning near me",
+     "results": [
+      {
+       "name": "Perfil B",
+       "stars": 5,
+       "meta": "dezenas de reviews · horários e serviços",
+       "hl": true
+      }
+     ]
+    }
+   },
+   {
+    "t": "O cliente escolhe o B mesmo que ele cobre mais."
+   },
+   {
+    "t": "A diferença não é o serviço: é a vitrine.",
+    "v": {
+     "kind": "icons",
+     "items": [
+      {
+       "icon": "camera",
+       "label": "Fotos"
+      },
+      {
+       "icon": "star",
+       "label": "Reviews"
+      },
+      {
+       "icon": "clock",
+       "label": "Horários"
+      }
+     ]
+    }
+   },
+   {
+    "t": "cta",
+    "h": "Seu perfil é A ou B?",
+    "s": "Manda PERFIL no direct"
+   }
+  ]
+ },
+ {
+  "dia": 11,
+  "slot": "noite",
+  "avatar": "Construção",
+  "theme": "gold",
+  "slides": [
+   {
+    "t": "capa",
+    "h": "A temporada de nor'easter começou. Quem ele vai achar depois da tempestade?",
+    "s": "",
+    "v": {
+     "kind": "search",
+     "query": "storm damage repair near me",
+     "results": [
+      {
+       "name": "Concorrente com fotos de reparo",
+       "stars": 5,
+       "meta": "atende hoje"
+      },
+      {
+       "name": "Sua empresa?",
+       "stars": 0,
+       "meta": "reparo não listado",
+       "hl": true
+      }
+     ]
+    }
+   },
+   {
+    "t": "A temporada de nor'easter vai mais ou menos de novembro a março.",
+    "v": {
+     "kind": "icons",
+     "items": [
+      {
+       "icon": "clock",
+       "label": "Nov → Mar"
+      },
+      {
+       "icon": "home",
+       "label": "Árvore, cerca, calha"
+      },
+      {
+       "icon": "phone",
+       "label": "Ligação na hora"
+      }
+     ]
+    }
+   },
+   {
+    "t": "Em setembro, um nor'easter já trouxe alerta de rajadas de 50 a 65 mph em Cape Cod (CBS Boston).",
+    "v": {
+     "kind": "bignum",
+     "n": "65 mph",
+     "label": "rajadas no alerta de 26–28/09 · CBS Boston"
+    }
+   },
+   {
+    "t": "Depois da tempestade, o homeowner procura reparo na hora. No Google, não em grupo de Facebook."
+   },
+   {
+    "t": "Prepare agora:",
+    "v": {
+     "kind": "checklist",
+     "items": [
+      "Serviços de reparo no perfil (só o que você faz)",
+      "5 fotos recentes de reparo",
+      "Telefone e horário de retorno claros"
+     ]
+    }
+   },
+   {
+    "t": "cta",
+    "h": "Quer o checklist completo?",
+    "s": "Manda REPARO no direct"
+   }
+  ]
+ },
+ {
+  "dia": 12,
+  "slot": "manha",
+  "avatar": "Construção",
+  "theme": "cream",
+  "slides": [
+   {
+    "t": "capa",
+    "h": "O inverno parou sua obra externa. Seu marketing não precisa parar.",
+    "s": "",
+    "v": {
+     "kind": "calendar",
+     "month": "Março",
+     "days": 31,
+     "marked": [
+      2,
+      9,
+      16,
+      23,
+      30
+     ]
+    }
+   },
+   {
+    "t": "No nordeste americano, obra externa desacelera no frio.",
+    "v": {
+     "kind": "icons",
+     "items": [
+      {
+       "icon": "home",
+       "label": "Obra externa"
+      },
+      {
+       "icon": "clock",
+       "label": "Dias curtos"
+      },
+      {
+       "icon": "tool",
+       "label": "Ritmo menor"
+      }
+     ]
+    }
+   },
+   {
+    "t": "É justamente quando o homeowner planeja a reforma da primavera."
+   },
+   {
+    "t": "Quem aparece no Google agora entra na lista de orçamentos de março.",
+    "v": {
+     "kind": "search",
+     "query": "kitchen remodel near me",
+     "results": [
+      {
+       "name": "Sua empresa",
+       "stars": 5,
+       "meta": "orçamento para março",
+       "hl": true
+      }
+     ]
+    }
+   },
+   {
+    "t": "E dá para vender o que se faz no frio: banheiro, cozinha, basement.",
+    "v": {
+     "kind": "checklist",
+     "items": [
+      "Banheiro",
+      "Cozinha",
+      "Basement"
+     ]
+    }
+   },
+   {
+    "t": "cta",
+    "h": "Quer fechar a obra da primavera agora?",
+    "s": "Manda PRIMAVERA no direct"
+   }
+  ]
+ },
+ {
+  "dia": 12,
+  "slot": "noite",
+  "avatar": "Cleaning",
+  "theme": "navy",
+  "slides": [
+   {
+    "t": "capa",
+    "h": "Seu anúncio agora aparece onde o Meta quiser.",
+    "s": "",
+    "v": {
+     "kind": "split",
+     "cols": [
+      {
+       "icon": "check",
+       "title": "Antes",
+       "text": "Você escolhia onde aparecer."
+      },
+      {
+       "icon": "search",
+       "title": "Agora",
+       "text": "O Meta escolhe por você.",
+       "hl": true
+      }
+     ]
+    }
+   },
+   {
+    "t": "Em outubro, o Meta tirou a escolha manual de posicionamento em campanhas de leads, engajamento e vendas."
+   },
+   {
+    "t": "Seu anúncio pode cair em Reels, Stories, feed ou busca do Facebook.",
+    "v": {
+     "kind": "icons",
+     "items": [
+      {
+       "icon": "camera",
+       "label": "Reels"
+      },
+      {
+       "icon": "phone",
+       "label": "Stories"
+      },
+      {
+       "icon": "home",
+       "label": "Feed"
+      },
+      {
+       "icon": "search",
+       "label": "Busca"
+      }
+     ]
+    }
+   },
+   {
+    "t": "Foto cortada no lugar errado passa amadorismo. E o cliente americano escolhe quem passa confiança."
+   },
+   {
+    "t": "A saída:",
+    "v": {
+     "kind": "checklist",
+     "items": [
+      "Mesma ideia em vertical (Reels e Stories)",
+      "E em quadrado (feed)",
+      "Exclusões agora ficam nas configurações da conta"
+     ]
+    }
+   },
+   {
+    "t": "cta",
+    "h": "Quer os tamanhos certos de cada lugar?",
+    "s": "Manda VERTICAL no direct"
+   }
+  ]
+ },
+ {
+  "dia": 13,
+  "slot": "manha",
+  "avatar": "Cleaning",
+  "theme": "gold",
+  "slides": [
+   {
+    "t": "capa",
+    "h": "Seu preço não é caro. Sua apresentação é fraca.",
+    "s": "",
+    "v": {
+     "kind": "split",
+     "cols": [
+      {
+       "icon": "phone",
+       "title": "Amadora",
+       "text": "Precisa cobrar barato para fechar."
+      },
+      {
+       "icon": "shield",
+       "title": "Profissional",
+       "text": "Cobra o que o serviço vale.",
+       "hl": true
+      }
+     ]
+    }
+   },
+   {
+    "t": "Cliente americano paga mais para quem passa confiança."
+   },
+   {
+    "t": "Confiança = marca, site, reviews, \"insured & bonded\".",
+    "v": {
+     "kind": "icons",
+     "items": [
+      {
+       "icon": "home",
+       "label": "Marca"
+      },
+      {
+       "icon": "search",
+       "label": "Site"
+      },
+      {
+       "icon": "star",
+       "label": "Reviews"
+      },
+      {
+       "icon": "shield",
+       "label": "Insured & bonded"
+      }
+     ]
+    }
+   },
+   {
+    "t": "Empresa que parece amadora precisa cobrar barato para fechar."
+   },
+   {
+    "t": "Profissionalizar a marca é o caminho mais curto para subir o ticket.",
+    "v": {
+     "kind": "checklist",
+     "items": [
+      "Marca e site profissionais",
+      "Reviews recentes",
+      "Insured & bonded visível"
+     ]
+    }
+   },
+   {
+    "t": "cta",
+    "h": "Quer cobrar o que seu serviço vale?",
+    "s": "Manda PREÇO no direct"
+   }
+  ]
+ },
+ {
+  "dia": 13,
+  "slot": "noite",
+  "avatar": "Construção",
+  "theme": "cream",
+  "slides": [
+   {
+    "t": "capa",
+    "h": "Antes, o cliente clicava no seu site. Agora ele lê o resumo do Google e decide.",
+    "s": "",
+    "v": {
+     "kind": "split",
+     "cols": [
+      {
+       "icon": "home",
+       "title": "Antes",
+       "text": "O site fazia a venda."
+      },
+      {
+       "icon": "search",
+       "title": "Agora",
+       "text": "O que aparece na busca decide.",
+       "hl": true
+      }
+     ]
+    }
+   },
+   {
+    "t": "Um estudo pequeno (30/10) estimou cerca de 0,9% de clique nos resumos de IA do Google.",
+    "v": {
+     "kind": "bignum",
+     "n": "~0,9%",
+     "label": "clique estimado nos resumos de IA · estudo de 30/10/2026"
+    }
+   },
+   {
+    "t": "Ou seja: o que aparece direto na busca pesa mais do que nunca."
+   },
+   {
+    "t": "O que aparece direto:",
+    "v": {
+     "kind": "icons",
+     "items": [
+      {
+       "icon": "star",
+       "label": "Reviews respondidas"
+      },
+      {
+       "icon": "camera",
+       "label": "Fotos de obra real"
+      },
+      {
+       "icon": "check",
+       "label": "Serviços listados"
+      }
+     ]
+    }
+   },
+   {
+    "t": "Faça hoje: liste cada serviço com descrição curta em inglês.",
+    "v": {
+     "kind": "checklist",
+     "items": [
+      "Kitchen remodel",
+      "Bathroom remodel",
+      "Basement finishing",
+      "Deck & porch"
+     ]
+    }
+   },
+   {
+    "t": "cta",
+    "h": "Quer a lista pronta para o seu perfil?",
+    "s": "Manda SERVIÇOS no direct"
+   }
+  ]
+ },
+ {
+  "dia": 14,
+  "slot": "manha",
+  "avatar": "Cleaning · Construção",
+  "theme": "navy",
+  "slides": [
+   {
+    "t": "capa",
+    "h": "A ponte entre sua empresa e novos clientes nos EUA.",
+    "s": "",
+    "v": {
+     "kind": "icons",
+     "items": [
+      {
+       "icon": "home",
+       "label": "Sua empresa"
+      },
+      {
+       "icon": "check",
+       "label": "Bridge & Co."
+      },
+      {
+       "icon": "phone",
+       "label": "Novos clientes"
+      }
+     ]
+    }
+   },
+   {
+    "t": "Para donos brasileiros de cleaning, construção e estética.",
+    "v": {
+     "kind": "icons",
+     "items": [
+      {
+       "icon": "home",
+       "label": "Cleaning"
+      },
+      {
+       "icon": "tool",
+       "label": "Construção"
+      },
+      {
+       "icon": "heart",
+       "label": "Estética"
+      }
+     ]
+    }
+   },
+   {
+    "t": "Fundação: marca, site em inglês e perfil do Google.",
+    "v": {
+     "kind": "checklist",
+     "items": [
+      "Marca",
+      "Site em inglês",
+      "Perfil do Google"
+     ]
+    }
+   },
+   {
+    "t": "Visibilidade: anúncio local no Google.",
+    "v": {
+     "kind": "search",
+     "query": "house cleaning near me",
+     "results": [
+      {
+       "name": "Sua empresa",
+       "stars": 5,
+       "meta": "anúncio local",
+       "hl": true
+      }
+     ]
+    }
+   },
+   {
+    "t": "Resposta: lead respondido em até 5 minutos.",
+    "v": {
+     "kind": "bignum",
+     "n": "5 min",
+     "label": "meta de tempo de resposta ao lead"
+    }
+   },
+   {
+    "t": "cta",
+    "h": "Tudo em português com você. Vagas limitadas por cidade.",
+    "s": "Aplique pelo link da bio"
+   }
+  ]
+ },
+ {
+  "dia": 14,
+  "slot": "noite",
+  "avatar": "Cleaning",
+  "theme": "gold",
+  "slides": [
+   {
+    "t": "capa",
+    "h": "85% respondem no mesmo dia. Só 26% em até 1 hora.",
+    "s": "Em qual grupo você está?",
+    "v": {
+     "kind": "bignum",
+     "n": "26%",
+     "label": "respondem lead em até 1 hora · Jobber 2026"
+    }
+   },
+   {
+    "t": "Relatório 2026 da Jobber com empresas de limpeza: responder no mesmo dia virou o mínimo.",
+    "v": {
+     "kind": "split",
+     "cols": [
+      {
+       "icon": "clock",
+       "title": "Mesmo dia",
+       "text": "85% fazem. Não diferencia."
+      },
+      {
+       "icon": "check",
+       "title": "Até 1 hora",
+       "text": "Só 26%. É aqui que você sai na frente.",
+       "hl": true
+      }
+     ]
+    }
+   },
+   {
+    "t": "E dá para fazer isso sem ficar presa no celular."
+   },
+   {
+    "t": "Salve uma mensagem pronta com 2 perguntas.",
+    "v": {
+     "kind": "chat",
+     "msgs": [
+      {
+       "text": "Hi! Can I get a quote?",
+       "time": "10:02"
+      },
+      {
+       "text": "Hi! Thanks for reaching out. How many bedrooms and bathrooms? Which day works best for you?",
+       "time": "10:05 · mensagem salva",
+       "me": true
+      }
+     ]
+    }
+   },
+   {
+    "t": "Separe 2 horários fixos no dia para responder tudo e ligue as notificações.",
+    "v": {
+     "kind": "icons",
+     "items": [
+      {
+       "icon": "clock",
+       "label": "11h (ex.)"
+      },
+      {
+       "icon": "clock",
+       "label": "16h (ex.)"
+      },
+      {
+       "icon": "phone",
+       "label": "Notificações"
+      }
+     ]
+    }
+   },
+   {
+    "t": "cta",
+    "h": "Quer a mensagem pronta em inglês?",
+    "s": "Manda MINUTO no direct"
+   }
+  ]
+ }
+]
