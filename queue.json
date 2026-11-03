@@ -101,10 +101,11 @@
       "dir": "posts/2026-w2/dia08",
       "slides": 6,
       "approved": true,
-      "published": false,
-      "media_id": null,
+      "published": true,
+      "media_id": "18127891378895931",
       "keyword": "AGENDA",
-      "caption": "Agenda cheia não depende de conhecer o GC certo. Depende de o homeowner encontrar você quando procura. Manda AGENDA no direct. #brasileirosnoseua #contractor #remodeling #construction"
+      "caption": "Agenda cheia não depende de conhecer o GC certo. Depende de o homeowner encontrar você quando procura. Manda AGENDA no direct. #brasileirosnoseua #contractor #remodeling #construction",
+      "published_at": "2026-11-03T08:50:01-05:00"
     },
     {
       "id": "2026-w2-dia08-noite",
