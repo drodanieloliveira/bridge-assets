@@ -152,10 +152,11 @@
       "dir": "posts/2026-w2/dia10",
       "slides": 6,
       "approved": true,
-      "published": false,
-      "media_id": null,
+      "published": true,
+      "media_id": "18642181201033399",
       "keyword": "LEAD",
-      "caption": "Pagar por lead compartilhado é entrar em leilão toda vez. Com anúncio próprio, o homeowner chega só para você. Manda LEAD no direct. #brasileirosnoseua #contractor #construction #leads"
+      "caption": "Pagar por lead compartilhado é entrar em leilão toda vez. Com anúncio próprio, o homeowner chega só para você. Manda LEAD no direct. #brasileirosnoseua #contractor #construction #leads",
+      "published_at": "2026-11-05T14:50:26+00:00"
     },
     {
       "id": "2026-w2-dia10-noite",
