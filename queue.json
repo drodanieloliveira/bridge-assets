@@ -204,10 +204,11 @@
       "dir": "posts/2026-w2/dia12",
       "slides": 6,
       "approved": true,
-      "published": false,
-      "media_id": null,
+      "published": true,
+      "media_id": "18644092030038890",
       "keyword": "PRIMAVERA",
-      "caption": "A obra de março é decidida em dezembro e janeiro. Quem some no inverno começa a primavera do zero. Manda PRIMAVERA no direct. #brasileirosnoseua #remodeling #contractor #massachusetts"
+      "caption": "A obra de março é decidida em dezembro e janeiro. Quem some no inverno começa a primavera do zero. Manda PRIMAVERA no direct. #brasileirosnoseua #remodeling #contractor #massachusetts",
+      "published_at": "2026-11-07T08:50:35-05:00"
     },
     {
       "id": "2026-w2-dia12-noite",
