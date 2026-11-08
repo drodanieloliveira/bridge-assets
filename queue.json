@@ -230,10 +230,11 @@
       "dir": "posts/2026-w2/dia13",
       "slides": 6,
       "approved": true,
-      "published": false,
-      "media_id": null,
+      "published": true,
+      "media_id": "18231375376327890",
       "keyword": "PREÇO",
-      "caption": "Se você precisa baixar preço para fechar, o problema pode não ser o valor. É o que o cliente vê antes de te chamar. Manda PREÇO no direct. #brasileirosnoseua #housecleaning #cleaningbusiness #branding"
+      "caption": "Se você precisa baixar preço para fechar, o problema pode não ser o valor. É o que o cliente vê antes de te chamar. Manda PREÇO no direct. #brasileirosnoseua #housecleaning #cleaningbusiness #branding",
+      "published_at": "2026-11-08T08:50:26-05:00"
     },
     {
       "id": "2026-w2-dia13-noite",
