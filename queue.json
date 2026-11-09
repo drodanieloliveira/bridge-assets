@@ -256,10 +256,11 @@
       "dir": "posts/2026-w2/dia14",
       "slides": 6,
       "approved": true,
-      "published": false,
-      "media_id": null,
+      "published": true,
+      "media_id": "18119757665082978",
       "keyword": "PONTE",
-      "caption": "Nas últimas duas semanas você viu onde o cliente americano procura e o que faz ele escolher. A Bridge monta isso para você, em português. Vagas por cidade: aplique pelo link da bio ou manda PONTE no direct. #brasileirosnoseua #bridgeandco #housecleaning #contractor"
+      "caption": "Nas últimas duas semanas você viu onde o cliente americano procura e o que faz ele escolher. A Bridge monta isso para você, em português. Vagas por cidade: aplique pelo link da bio ou manda PONTE no direct. #brasileirosnoseua #bridgeandco #housecleaning #contractor",
+      "published_at": "2026-11-09T10:00:53-05:00"
     },
     {
       "id": "2026-w2-dia14-noite",
