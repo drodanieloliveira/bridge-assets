@@ -1,0 +1,1131 @@
+[
+ {
+  "dia": 15,
+  "slot": "manha",
+  "avatar": "Cleaning",
+  "theme": "navy",
+  "slides": [
+   {
+    "t": "capa",
+    "h": "Faltam 2 semanas para o Thanksgiving. Sua agenda já sabe?",
+    "s": "",
+    "v": {
+     "kind": "calendar",
+     "month": "Novembro 2026",
+     "days": 30,
+     "marked": [
+      10,
+      26
+     ]
+    }
+   },
+   {
+    "t": "Thanksgiving é quinta, 26/11. Quem vai receber visita escolhe quem limpa nos próximos dias.",
+    "v": {
+     "kind": "notif",
+     "items": [
+      {
+       "app": "LEMBRETE",
+       "time": "hoje",
+       "text": "Família chega dia 26. Marcar limpeza!"
+      },
+      {
+       "app": "LEMBRETE",
+       "time": "dia 25",
+       "text": "Ligar para a cleaning… (tarde demais)",
+       "dim": true
+      }
+     ]
+    }
+   },
+   {
+    "t": "Ofereça um pacote com nome: \"limpeza antes dos convidados\".",
+    "v": {
+     "kind": "checklist",
+     "items": [
+      "Cozinha pesada",
+      "Banheiro de visita",
+      "Quarto de hóspede"
+     ]
+    }
+   },
+   {
+    "t": "E já ofereça a segunda data: \"depois da festa\", no fim de semana seguinte.",
+    "v": {
+     "kind": "split",
+     "cols": [
+      {
+       "icon": "home",
+       "title": "Antes",
+       "text": "Casa pronta para receber."
+      },
+      {
+       "icon": "check",
+       "title": "Depois",
+       "text": "Cozinha e sala em ordem de novo.",
+       "hl": true
+      }
+     ]
+    }
+   },
+   {
+    "t": "Mande o aviso por texto (SMS) e e-mail para a sua lista esta semana.",
+    "v": {
+     "kind": "chat",
+     "msgs": [
+      {
+       "text": "Hi Sarah! Hosting Thanksgiving? We have a few spots left before the 26th for a pre-guest clean.",
+       "time": "SMS · ex.",
+       "me": true
+      },
+      {
+       "text": "Yes! Can you do the 24th?",
+       "time": "ex."
+      }
+     ]
+    }
+   },
+   {
+    "t": "cta",
+    "h": "Quer o aviso pronto em inglês?",
+    "s": "Manda VISITA no direct"
+   }
+  ]
+ },
+ {
+  "dia": 15,
+  "slot": "noite",
+  "avatar": "Construção",
+  "theme": "cream",
+  "slides": [
+   {
+    "t": "capa",
+    "h": "O frio para sua obra. Ou muda o que você vende.",
+    "s": "",
+    "v": {
+     "kind": "split",
+     "cols": [
+      {
+       "icon": "home",
+       "title": "Lá fora",
+       "text": "Deck, pintura externa, telhado."
+      },
+      {
+       "icon": "tool",
+       "title": "Dentro",
+       "text": "Banheiro, cozinha, porão, piso.",
+       "hl": true
+      }
+     ]
+    }
+   },
+   {
+    "t": "Previsão da FOX Weather (8/11): ar frio a partir de sexta, máximas de 30 a 40 °F no Nordeste.",
+    "v": {
+     "kind": "notif",
+     "items": [
+      {
+       "app": "PREVISÃO",
+       "time": "sex 13/11",
+       "text": "Frio do Canadá chegando ao Nordeste"
+      },
+      {
+       "app": "PREVISÃO",
+       "time": "dom 15/11",
+       "text": "Pode chegar à Flórida (previsão)"
+      }
+     ]
+    }
+   },
+   {
+    "t": "Com o frio, o homeowner passa mais tempo dentro de casa e olha para o banheiro velho e a cozinha apertada."
+   },
+   {
+    "t": "Esta semana: troque as fotos principais do perfil por obra de dentro.",
+    "v": {
+     "kind": "checklist",
+     "items": [
+      "Fotos de banheiro e cozinha",
+      "Serviços internos na descrição",
+      "Anúncio sem termos de obra externa"
+     ]
+    }
+   },
+   {
+    "t": "Ligue para quem pediu orçamento externo e não fechou: ofereça agendar a primavera e um serviço interno agora.",
+    "v": {
+     "kind": "icons",
+     "items": [
+      {
+       "icon": "phone",
+       "label": "Ligar"
+      },
+      {
+       "icon": "clock",
+       "label": "Primavera"
+      },
+      {
+       "icon": "tool",
+       "label": "Interno agora"
+      }
+     ]
+    }
+   },
+   {
+    "t": "cta",
+    "h": "Quer a lista do que mudar no perfil?",
+    "s": "Manda BANHEIRO no direct"
+   }
+  ]
+ },
+ {
+  "dia": 16,
+  "slot": "manha",
+  "avatar": "Construção",
+  "theme": "gold",
+  "slides": [
+   {
+    "t": "capa",
+    "h": "O Google ganhou botão de orçamento. Você está do lado certo dele?",
+    "s": "",
+    "v": {
+     "kind": "search",
+     "query": "bathroom remodel near me",
+     "results": [
+      {
+       "name": "Sua empresa",
+       "stars": 5,
+       "meta": "pedir orçamento",
+       "hl": true
+      }
+     ]
+    }
+   },
+   {
+    "t": "Desde 4/11, no modo IA da busca do Google nos EUA, quem pede serviço de casa pode ver botão de agendar ou pedir orçamento."
+   },
+   {
+    "t": "O botão passa por plataformas parceiras: Angi, Thumbtack, Housecall Pro e Jobber. ServiceTitan vem depois.",
+    "v": {
+     "kind": "icons",
+     "items": [
+      {
+       "icon": "search",
+       "label": "Busca"
+      },
+      {
+       "icon": "check",
+       "label": "Plataforma parceira"
+      },
+      {
+       "icon": "phone",
+       "label": "Pedido"
+      }
+     ]
+    }
+   },
+   {
+    "t": "O Google não explicou como escolhe quem aparece. O exemplo dele foi handyman; remodeling não foi citado.",
+    "v": {
+     "kind": "split",
+     "cols": [
+      {
+       "icon": "check",
+       "title": "Se sabe",
+       "text": "Parceiros e que é nos EUA."
+      },
+      {
+       "icon": "search",
+       "title": "Não se sabe",
+       "text": "Como o Google escolhe quem aparece.",
+       "hl": true
+      }
+     ]
+    }
+   },
+   {
+    "t": "Não precisa assinar todas. Escolha uma porta e cuide do básico.",
+    "v": {
+     "kind": "checklist",
+     "items": [
+      "Ligada ao perfil do Google",
+      "Mesmo endereço nos dois",
+      "Reviews recentes e respondidas"
+     ]
+    }
+   },
+   {
+    "t": "cta",
+    "h": "Quer ajuda para escolher a porta certa?",
+    "s": "Manda PORTA no direct"
+   }
+  ]
+ },
+ {
+  "dia": 16,
+  "slot": "noite",
+  "avatar": "Cleaning",
+  "theme": "navy",
+  "slides": [
+   {
+    "t": "capa",
+    "h": "Snowbird chegou. A casa dele ficou fechada meses.",
+    "s": "Quem limpa?",
+    "v": {
+     "kind": "icons",
+     "items": [
+      {
+       "icon": "home",
+       "label": "Casa fechada"
+      },
+      {
+       "icon": "clock",
+       "label": "Meses"
+      },
+      {
+       "icon": "check",
+       "label": "Abertura"
+      }
+     ]
+    }
+   },
+   {
+    "t": "Moradores sazonais começam a chegar em outubro; a maioria está instalada até o Thanksgiving.",
+    "v": {
+     "kind": "calendar",
+     "month": "Novembro 2026",
+     "days": 30,
+     "marked": [
+      26
+     ]
+    }
+   },
+   {
+    "t": "Casa fechada por meses tem tarefa que limpeza comum não cobre.",
+    "v": {
+     "kind": "checklist",
+     "items": [
+      "Poeira em tudo",
+      "Geladeira e despensa",
+      "Roupa de cama e toalhas"
+     ]
+    }
+   },
+   {
+    "t": "Venda em par: \"abertura\" agora e \"fechamento\" em abril, quando a maioria vai embora.",
+    "v": {
+     "kind": "split",
+     "cols": [
+      {
+       "icon": "home",
+       "title": "Abertura",
+       "text": "Novembro: casa pronta para chegar."
+      },
+      {
+       "icon": "check",
+       "title": "Fechamento",
+       "text": "Abril: já agendado hoje.",
+       "hl": true
+      }
+     ]
+    }
+   },
+   {
+    "t": "Onde achar: perfil do Google com esse serviço escrito, condomínios 55+ e administradoras de imóveis.",
+    "v": {
+     "kind": "search",
+     "query": "move-in cleaning seasonal home",
+     "results": [
+      {
+       "name": "Sua empresa",
+       "stars": 5,
+       "meta": "abertura de casa sazonal",
+       "hl": true
+      }
+     ]
+    }
+   },
+   {
+    "t": "cta",
+    "h": "Quer o texto pronto para oferecer o pacote?",
+    "s": "Manda ABERTURA no direct"
+   }
+  ]
+ },
+ {
+  "dia": 17,
+  "slot": "manha",
+  "avatar": "Cleaning",
+  "theme": "cream",
+  "slides": [
+   {
+    "t": "capa",
+    "h": "Te pediram dinheiro para apagar review de 1 estrela?",
+    "s": "Não paga.",
+    "v": {
+     "kind": "notif",
+     "items": [
+      {
+       "app": "NOVA AVALIAÇÃO",
+       "time": "23:41",
+       "text": "★☆☆☆☆ Péssimo serviço"
+      },
+      {
+       "app": "NOVA AVALIAÇÃO",
+       "time": "23:42",
+       "text": "★☆☆☆☆ Não recomendo"
+      }
+     ]
+    }
+   },
+   {
+    "t": "O golpe: aparecem várias avaliações ruins de uma vez e chega mensagem pedindo pagamento para remover.",
+    "v": {
+     "kind": "chat",
+     "msgs": [
+      {
+       "text": "Pay $200 and we remove the reviews.",
+       "time": "ex."
+      }
+     ]
+    }
+   },
+   {
+    "t": "O que o Google orienta: não responder, não pagar e não oferecer serviço em troca.",
+    "v": {
+     "kind": "split",
+     "cols": [
+      {
+       "icon": "shield",
+       "title": "Faça",
+       "text": "Junte prova e denuncie.",
+       "hl": true
+      },
+      {
+       "icon": "phone",
+       "title": "Não faça",
+       "text": "Responder, pagar ou negociar."
+      }
+     ]
+    }
+   },
+   {
+    "t": "Guarde print de tudo, com data e o contato de quem cobrou.",
+    "v": {
+     "kind": "checklist",
+     "items": [
+      "Print das reviews",
+      "Print da mensagem",
+      "Data e contato"
+     ]
+    }
+   },
+   {
+    "t": "Use o formulário de denúncia de extorsão de review do Google, logada na conta que administra o perfil.",
+    "v": {
+     "kind": "icons",
+     "items": [
+      {
+       "icon": "camera",
+       "label": "Prints"
+      },
+      {
+       "icon": "shield",
+       "label": "Formulário"
+      },
+      {
+       "icon": "check",
+       "label": "Enviar"
+      }
+     ]
+    }
+   },
+   {
+    "t": "cta",
+    "h": "Quer o link do formulário e o que juntar?",
+    "s": "Manda EXTORSÃO no direct"
+   }
+  ]
+ },
+ {
+  "dia": 17,
+  "slot": "noite",
+  "avatar": "Construção",
+  "theme": "gold",
+  "slides": [
+   {
+    "t": "capa",
+    "h": "Sub na Flórida: o GC agora tem prazo para te pagar.",
+    "s": "",
+    "v": {
+     "kind": "bignum",
+     "n": "45 dias",
+     "label": "Estatutos da Flórida, seção 489.1295"
+    }
+   },
+   {
+    "t": "Desde 1º/07/2026, o contratante licenciado paga sub e fornecedor em até 45 dias depois de receber, ou no prazo do contrato.",
+    "v": {
+     "kind": "notif",
+     "items": [
+      {
+       "app": "DIA 0",
+       "time": "GC recebe",
+       "text": "O dono da obra paga o GC"
+      },
+      {
+       "app": "ATÉ O DIA 45",
+       "time": "prazo",
+       "text": "O GC paga você (ou no prazo do contrato)"
+      }
+     ]
+    }
+   },
+   {
+    "t": "Se o contrato não fala de prazo, valem os 45 dias. Exceção: disputa de boa-fé sobre o valor.",
+    "v": {
+     "kind": "split",
+     "cols": [
+      {
+       "icon": "check",
+       "title": "Sem disputa",
+       "text": "Paga no prazo.",
+       "hl": true
+      },
+      {
+       "icon": "tool",
+       "title": "Em disputa",
+       "text": "A parte não discutida ainda deve ser paga."
+      }
+     ]
+    }
+   },
+   {
+    "t": "Quem descumpre de propósito pode ter processo na licença. Vale para obra privada.",
+    "v": {
+     "kind": "checklist",
+     "items": [
+      "Prazo por escrito no contrato",
+      "Data em que o GC recebeu",
+      "O que você entregou"
+     ]
+    }
+   },
+   {
+    "t": "Mas a saída de verdade é ter cliente direto: o homeowner que te acha no Google.",
+    "v": {
+     "kind": "search",
+     "query": "tile contractor near me",
+     "results": [
+      {
+       "name": "Sua empresa",
+       "stars": 5,
+       "meta": "cliente direto",
+       "hl": true
+      }
+     ]
+    }
+   },
+   {
+    "t": "cta",
+    "h": "Quer o primeiro passo para pegar cliente direto?",
+    "s": "Manda CONTRATO no direct"
+   }
+  ]
+ },
+ {
+  "dia": 18,
+  "slot": "manha",
+  "avatar": "Construção",
+  "theme": "navy",
+  "slides": [
+   {
+    "t": "capa",
+    "h": "O IRS soltou os números de 2027. Fale com seu contador antes de 31/12.",
+    "s": "",
+    "v": {
+     "kind": "calendar",
+     "month": "Dezembro 2026",
+     "days": 31,
+     "marked": [
+      31
+     ]
+    }
+   },
+   {
+    "t": "Em 5/11, o IRS publicou os valores corrigidos de 2027 (Rev. Proc. 2026-35)."
+   },
+   {
+    "t": "Seção 179, para lançar equipamento como despesa de uma vez: limite de US$ 2,64 milhões em 2027.",
+    "v": {
+     "kind": "split",
+     "cols": [
+      {
+       "icon": "clock",
+       "title": "2026",
+       "text": "US$ 2,56 milhões"
+      },
+      {
+       "icon": "tool",
+       "title": "2027",
+       "text": "US$ 2,64 milhões",
+       "hl": true
+      }
+     ]
+    }
+   },
+   {
+    "t": "Dedução padrão de 2027: US$ 16.600 (solteiro) e US$ 33.200 (casados declarando juntos).",
+    "v": {
+     "kind": "bignum",
+     "n": "US$ 16.600",
+     "label": "dedução padrão 2027 · solteiro · IRS"
+    }
+   },
+   {
+    "t": "Leve para o contador, antes de dezembro acabar:",
+    "v": {
+     "kind": "checklist",
+     "items": [
+      "Compras planejadas",
+      "Notas de 2026",
+      "Imposto estimado já pago"
+     ]
+    }
+   },
+   {
+    "t": "cta",
+    "h": "Quer o checklist para levar ao contador?",
+    "s": "Manda CONTADOR no direct"
+   }
+  ]
+ },
+ {
+  "dia": 18,
+  "slot": "noite",
+  "avatar": "Cleaning",
+  "theme": "cream",
+  "slides": [
+   {
+    "t": "capa",
+    "h": "Post no Google sem designer. Uma frase e pronto.",
+    "s": "",
+    "v": {
+     "kind": "chat",
+     "msgs": [
+      {
+       "text": "Crie um post sobre agendar a limpeza antes do Thanksgiving em Framingham",
+       "time": "você · ex.",
+       "me": true
+      },
+      {
+       "text": "Pronto: imagem e texto para publicar no seu perfil.",
+       "time": "Gemini · ex."
+      }
+     ]
+    }
+   },
+   {
+    "t": "O Gemini, a IA do Google, agora se conecta ao perfil da empresa e cria imagem ou vídeo para postar na Busca e no Maps."
+   },
+   {
+    "t": "Ele também avisa quando falta horário de feriado no perfil.",
+    "v": {
+     "kind": "notif",
+     "items": [
+      {
+       "app": "PERFIL DA EMPRESA",
+       "time": "agora",
+       "text": "Falta o horário da semana do feriado (26/11)."
+      }
+     ]
+    }
+   },
+   {
+    "t": "Por enquanto: Gemini no navegador e para quem tem um perfil só (não várias unidades).",
+    "v": {
+     "kind": "icons",
+     "items": [
+      {
+       "icon": "search",
+       "label": "Navegador"
+      },
+      {
+       "icon": "home",
+       "label": "1 perfil"
+      },
+      {
+       "icon": "check",
+       "label": "Post"
+      }
+     ]
+    }
+   },
+   {
+    "t": "Antes de publicar, confira o que a IA escreveu.",
+    "v": {
+     "kind": "checklist",
+     "items": [
+      "Preço certo",
+      "Cidade certa",
+      "Serviço que você faz"
+     ]
+    }
+   },
+   {
+    "t": "cta",
+    "h": "Quer 3 frases prontas para usar?",
+    "s": "Manda GEMINI no direct"
+   }
+  ]
+ },
+ {
+  "dia": 19,
+  "slot": "manha",
+  "avatar": "Cleaning",
+  "theme": "gold",
+  "slides": [
+   {
+    "t": "capa",
+    "h": "\"Aqui é do Google.\" Será?",
+    "s": "1º lugar garantido não existe.",
+    "v": {
+     "kind": "notif",
+     "items": [
+      {
+       "app": "CHAMADA",
+       "time": "10:14",
+       "text": "\"Google Business\" · número desconhecido"
+      }
+     ]
+    }
+   },
+   {
+    "t": "Até estrategistas terceirizados do Google Ads foram vistos usando nome e foto que parecem feitos por IA (Search Engine Roundtable, 2/11)."
+   },
+   {
+    "t": "Peça tudo por e-mail e confira o domínio. A documentação citada fala em @xwf.google.com para esses representantes.",
+    "v": {
+     "kind": "chat",
+     "msgs": [
+      {
+       "text": "Can you send me this by email first?",
+       "time": "você",
+       "me": true
+      }
+     ]
+    }
+   },
+   {
+    "t": "Nunca passe por telefone:",
+    "v": {
+     "kind": "checklist",
+     "items": [
+      "Senha",
+      "Código de verificação",
+      "Cartão"
+     ]
+    }
+   },
+   {
+    "t": "Ninguém garante 1º lugar no Maps. Quem promete isso está vendendo, não ajudando.",
+    "v": {
+     "kind": "split",
+     "cols": [
+      {
+       "icon": "shield",
+       "title": "Confiável",
+       "text": "Manda por e-mail e não pede código.",
+       "hl": true
+      },
+      {
+       "icon": "phone",
+       "title": "Desconfie",
+       "text": "Promete posição e tem pressa."
+      }
+     ]
+    }
+   },
+   {
+    "t": "cta",
+    "h": "Quer o checklist de 4 perguntas para a ligação?",
+    "s": "Manda LIGAÇÃO no direct"
+   }
+  ]
+ },
+ {
+  "dia": 19,
+  "slot": "noite",
+  "avatar": "Construção",
+  "theme": "navy",
+  "slides": [
+   {
+    "t": "capa",
+    "h": "O homeowner não desistiu da obra. Ele cortou o tamanho.",
+    "s": "",
+    "v": {
+     "kind": "bignum",
+     "n": "77%",
+     "label": "adiam ou reduzem projeto por custo · Housecall Pro, fev/2026"
+    }
+   },
+   {
+    "t": "Gasto com reforma caiu 13% de agosto para setembro (Census, via NAHB)."
+   },
+   {
+    "t": "62% ficam mais propensos a fechar quando há financiamento ou plano de pagamento (Housecall Pro, fev/2026).",
+    "v": {
+     "kind": "bignum",
+     "n": "62%",
+     "label": "mais propensos a fechar com plano de pagamento"
+    }
+   },
+   {
+    "t": "Ofereça a obra em etapas, com orçamento separado para cada uma.",
+    "v": {
+     "kind": "split",
+     "cols": [
+      {
+       "icon": "tool",
+       "title": "Fase 1",
+       "text": "Agora: o que mais incomoda."
+      },
+      {
+       "icon": "clock",
+       "title": "Fase 2",
+       "text": "Primavera: o resto do projeto.",
+       "hl": true
+      }
+     ]
+    }
+   },
+   {
+    "t": "No orçamento, deixe claro:",
+    "v": {
+     "kind": "checklist",
+     "items": [
+      "O que entra em cada fase",
+      "Valor de cada fase",
+      "Data prevista da fase 2"
+     ]
+    }
+   },
+   {
+    "t": "cta",
+    "h": "Quer um modelo de orçamento em etapas?",
+    "s": "Manda ETAPAS no direct"
+   }
+  ]
+ },
+ {
+  "dia": 20,
+  "slot": "manha",
+  "avatar": "Construção",
+  "theme": "cream",
+  "slides": [
+   {
+    "t": "capa",
+    "h": "O cliente indicado ainda vai te pesquisar.",
+    "s": "",
+    "v": {
+     "kind": "search",
+     "query": "nome da sua empresa",
+     "results": [
+      {
+       "name": "Sua empresa",
+       "stars": 5,
+       "meta": "fotos de obra + reviews",
+       "hl": true
+      }
+     ]
+    }
+   },
+   {
+    "t": "Indicação: o vizinho fala de você. Prova: o homeowner te acha no Google e vê fotos e avaliações.",
+    "v": {
+     "kind": "split",
+     "cols": [
+      {
+       "icon": "heart",
+       "title": "Indicação",
+       "text": "Abre a porta."
+      },
+      {
+       "icon": "star",
+       "title": "Prova",
+       "text": "Fecha a obra.",
+       "hl": true
+      }
+     ]
+    }
+   },
+   {
+    "t": "Perfil sem foto de obra é indicação que esfria antes da primeira ligação."
+   },
+   {
+    "t": "Depois de cada obra, poste antes e depois com cidade e serviço.",
+    "v": {
+     "kind": "checklist",
+     "items": [
+      "Foto de antes",
+      "Foto de depois",
+      "Cidade e serviço na legenda"
+     ]
+    }
+   },
+   {
+    "t": "E peça review ao cliente no dia da entrega, enquanto ele está feliz.",
+    "v": {
+     "kind": "stars",
+     "score": "Review nova",
+     "label": "pedida no dia da entrega (ex.)"
+    }
+   },
+   {
+    "t": "cta",
+    "h": "Quer saber o que colocar no seu perfil?",
+    "s": "Manda INDICAÇÃO no direct"
+   }
+  ]
+ },
+ {
+  "dia": 20,
+  "slot": "noite",
+  "avatar": "Cleaning",
+  "theme": "gold",
+  "slides": [
+   {
+    "t": "capa",
+    "h": "20 de novembro: a Meta muda as regras do anúncio.",
+    "s": "",
+    "v": {
+     "kind": "calendar",
+     "month": "Novembro 2026",
+     "days": 30,
+     "marked": [
+      20
+     ]
+    }
+   },
+   {
+    "t": "Os novos Termos Comerciais e de Anúncios valem a partir de 20/11. Continuar anunciando conta como aceite."
+   },
+   {
+    "t": "O que a IA da Meta escrever ou criar no seu anúncio é responsabilidade sua.",
+    "v": {
+     "kind": "icons",
+     "items": [
+      {
+       "icon": "tool",
+       "label": "IA cria"
+      },
+      {
+       "icon": "shield",
+       "label": "Você responde"
+      },
+      {
+       "icon": "check",
+       "label": "Revise"
+      }
+     ]
+    }
+   },
+   {
+    "t": "Antes de impulsionar, confira:",
+    "v": {
+     "kind": "checklist",
+     "items": [
+      "Preço e cidade",
+      "Serviço que você faz",
+      "Nenhuma promessa que você não cumpre"
+     ]
+    }
+   },
+   {
+    "t": "Use foto real do seu trabalho, não imagem genérica gerada.",
+    "v": {
+     "kind": "split",
+     "cols": [
+      {
+       "icon": "camera",
+       "title": "Foto real",
+       "text": "Sua equipe, sua limpeza.",
+       "hl": true
+      },
+      {
+       "icon": "tool",
+       "title": "Imagem gerada",
+       "text": "Bonita, mas não é você."
+      }
+     ]
+    }
+   },
+   {
+    "t": "cta",
+    "h": "Quer o checklist antes de impulsionar?",
+    "s": "Manda IMPULSO no direct"
+   }
+  ]
+ },
+ {
+  "dia": 21,
+  "slot": "manha",
+  "avatar": "Cleaning",
+  "theme": "navy",
+  "slides": [
+   {
+    "t": "capa",
+    "h": "Todo mundo vende a limpeza de antes. Venda a de depois.",
+    "s": "",
+    "v": {
+     "kind": "calendar",
+     "month": "Novembro 2026",
+     "days": 30,
+     "marked": [
+      24,
+      25,
+      28,
+      29
+     ]
+    }
+   },
+   {
+    "t": "Thanksgiving é quinta, 26/11. Na sexta, a casa do cliente amanhece de cabeça para baixo."
+   },
+   {
+    "t": "Ofereça \"depois da festa\" para o fim de semana de 28 e 29/11.",
+    "v": {
+     "kind": "checklist",
+     "items": [
+      "Cozinha e forno",
+      "Sala e sala de jantar",
+      "Banheiro de visita"
+     ]
+    }
+   },
+   {
+    "t": "Quem já agendou o \"antes\" é o primeiro a receber a oferta do \"depois\".",
+    "v": {
+     "kind": "chat",
+     "msgs": [
+      {
+       "text": "See you on the 24th! Want me to save the 28th for an after-party clean too?",
+       "time": "SMS · ex.",
+       "me": true
+      },
+      {
+       "text": "Oh yes, please!",
+       "time": "ex."
+      }
+     ]
+    }
+   },
+   {
+    "t": "Duas visitas, um cliente lembrando de você no começo de dezembro.",
+    "v": {
+     "kind": "icons",
+     "items": [
+      {
+       "icon": "home",
+       "label": "Antes"
+      },
+      {
+       "icon": "heart",
+       "label": "Festa"
+      },
+      {
+       "icon": "check",
+       "label": "Depois"
+      }
+     ]
+    }
+   },
+   {
+    "t": "cta",
+    "h": "Quer a mensagem pronta para oferecer?",
+    "s": "Manda FESTA no direct"
+   }
+  ]
+ },
+ {
+  "dia": 21,
+  "slot": "noite",
+  "avatar": "Construção",
+  "theme": "cream",
+  "slides": [
+   {
+    "t": "capa",
+    "h": "Sua obra ficou linda. A foto, nem tanto.",
+    "s": "",
+    "v": {
+     "kind": "split",
+     "cols": [
+      {
+       "icon": "camera",
+       "title": "Antes",
+       "text": "Mesmo ângulo."
+      },
+      {
+       "icon": "check",
+       "title": "Depois",
+       "text": "Mesma luz.",
+       "hl": true
+      }
+     ]
+    }
+   },
+   {
+    "t": "O homeowner olha as fotos do perfil antes de ligar. Antes e depois mostra o que você faz melhor que qualquer frase."
+   },
+   {
+    "t": "Três regras na hora de fotografar:",
+    "v": {
+     "kind": "checklist",
+     "items": [
+      "Mesmo lugar e ângulo",
+      "Celular na horizontal",
+      "Luz acesa e ambiente limpo"
+     ]
+    }
+   },
+   {
+    "t": "Tire a de antes no primeiro dia, antes de tocar em qualquer coisa. Depois não tem volta.",
+    "v": {
+     "kind": "notif",
+     "items": [
+      {
+       "app": "LEMBRETE",
+       "time": "dia 1 · 7:00",
+       "text": "Foto de antes, antes de começar"
+      },
+      {
+       "app": "LEMBRETE",
+       "time": "entrega",
+       "text": "Foto de depois, mesmo ângulo"
+      }
+     ]
+    }
+   },
+   {
+    "t": "Poste no perfil do Google com a cidade e o serviço na descrição.",
+    "v": {
+     "kind": "search",
+     "query": "kitchen remodel worcester ma",
+     "results": [
+      {
+       "name": "Sua empresa",
+       "stars": 5,
+       "meta": "antes e depois · cozinha",
+       "hl": true
+      }
+     ]
+    }
+   },
+   {
+    "t": "cta",
+    "h": "Quer o passo a passo para postar no perfil?",
+    "s": "Manda ANTES no direct"
+   }
+  ]
+ }
+]
