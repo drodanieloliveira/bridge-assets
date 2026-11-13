@@ -372,10 +372,11 @@
       "dir": "posts/2026-w3/dia18-noite",
       "slides": 6,
       "approved": true,
-      "published": false,
-      "media_id": null,
+      "published": true,
+      "media_id": "18078622472733829",
       "keyword": "GEMINI",
-      "caption": "Dá para criar post para o perfil do Google em uma frase com o Gemini. Ótimo para avisar o horário da semana do Thanksgiving.\n\nManda GEMINI no direct.\n\n#brasileirosnoseua #housecleaning #cleaningbusiness #googlemaps"
+      "caption": "Dá para criar post para o perfil do Google em uma frase com o Gemini. Ótimo para avisar o horário da semana do Thanksgiving.\n\nManda GEMINI no direct.\n\n#brasileirosnoseua #housecleaning #cleaningbusiness #googlemaps",
+      "published_at": "2026-11-13T18:50:12-05:00"
     },
     {
       "id": "2026-w3-dia19",
