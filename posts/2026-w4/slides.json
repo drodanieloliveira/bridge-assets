@@ -1,0 +1,1092 @@
+[
+ {
+  "dia": 22,
+  "slot": "manha",
+  "avatar": "Cleaning",
+  "theme": "gold",
+  "slides": [
+   {
+    "t": "capa",
+    "h": "Ela quer ajuda no Thanksgiving. Ela não vai pedir.",
+    "s": "",
+    "v": {
+     "kind": "split",
+     "cols": [
+      {
+       "icon": "heart",
+       "title": "Querem",
+       "text": "85% dos anfitriões."
+      },
+      {
+       "icon": "phone",
+       "title": "Pedem",
+       "text": "Só 38%.",
+       "hl": true
+      }
+     ]
+    }
+   },
+   {
+    "t": "Relatório Butterball 2026: 85% dos anfitriões querem ajuda no Thanksgiving. Só 38% pedem.",
+    "v": {
+     "kind": "bignum",
+     "n": "38%",
+     "label": "dos anfitriões pedem ajuda (Butterball 2026)"
+    }
+   },
+   {
+    "t": "E a limpeza depois da festa é onde 49% deles mais precisam de ajuda. É a sua vaga na sexta, 27/11."
+   },
+   {
+    "t": "Esperar ela pedir ou oferecer primeiro?",
+    "v": {
+     "kind": "split",
+     "cols": [
+      {
+       "icon": "clock",
+       "title": "Esperar",
+       "text": "Agenda vazia na sexta 27."
+      },
+      {
+       "icon": "check",
+       "title": "Oferecer",
+       "text": "Data clara, vaga limitada.",
+       "hl": true
+      }
+     ]
+    }
+   },
+   {
+    "t": "Mensagem curta, data clara e uma pergunta só.",
+    "v": {
+     "kind": "chat",
+     "msgs": [
+      {
+       "text": "Hi Linda! Hosting on the 26th? I have 2 spots for a post-holiday clean on Fri 11/27. Want me to save one?",
+       "time": "SMS · ex.",
+       "me": true
+      },
+      {
+       "text": "Yes, please!",
+       "time": "ex."
+      }
+     ]
+    }
+   },
+   {
+    "t": "cta",
+    "h": "Quer essa mensagem pronta em inglês?",
+    "s": "Manda PEDIDO no direct"
+   }
+  ]
+ },
+ {
+  "dia": 22,
+  "slot": "noite",
+  "avatar": "Construção",
+  "theme": "navy",
+  "slides": [
+   {
+    "t": "capa",
+    "h": "O Google está testando tirar o botão de ligar. Sobra o seu nome.",
+    "s": "",
+    "v": {
+     "kind": "search",
+     "query": "kitchen remodel near me",
+     "results": [
+      {
+       "name": "Sua empresa",
+       "stars": 5,
+       "meta": "sem botão de ligar · teste",
+       "hl": true
+      }
+     ]
+    }
+   },
+   {
+    "t": "Teste visto em 10/11: lista de empresas dentro da resposta de IA, sem botão de ligar, rota, foto ou review.",
+    "v": {
+     "kind": "notif",
+     "items": [
+      {
+       "app": "BUSCA",
+       "time": "10/11",
+       "text": "Lista na IA sem botão de ligar (teste)"
+      },
+      {
+       "app": "BUSCA",
+       "time": "10/11",
+       "text": "O mapinha com 3 empresas some da tela"
+      }
+     ]
+    }
+   },
+   {
+    "t": "Sem botão, o homeowner digita o nome da empresa. Ali tem que aparecer tudo: telefone, fotos e reviews."
+   },
+   {
+    "t": "O nome tem que ser igual em todo lugar:",
+    "v": {
+     "kind": "icons",
+     "items": [
+      {
+       "icon": "pin",
+       "label": "Perfil do Google"
+      },
+      {
+       "icon": "home",
+       "label": "Site"
+      },
+      {
+       "icon": "tool",
+       "label": "Caminhão"
+      }
+     ]
+    }
+   },
+   {
+    "t": "Confira hoje no celular, deslogado:",
+    "v": {
+     "kind": "checklist",
+     "items": [
+      "Busque o nome exato da empresa",
+      "Telefone certo no perfil",
+      "Fotos reais de obra"
+     ]
+    }
+   },
+   {
+    "t": "cta",
+    "h": "Quer o checklist completo?",
+    "s": "Manda CAMINHÃO no direct"
+   }
+  ]
+ },
+ {
+  "dia": 23,
+  "slot": "manha",
+  "avatar": "Construção",
+  "theme": "cream",
+  "slides": [
+   {
+    "t": "capa",
+    "h": "Homeowner com medo de gastar? Não baixe o preço. Dê opção.",
+    "s": "",
+    "v": {
+     "kind": "bignum",
+     "n": "7,18%",
+     "label": "juros de 30 anos (Freddie Mac, 5/11)"
+    }
+   },
+   {
+    "t": "Juros acima de 7% e interesse em reforma no ponto mais fraco desde 2024.",
+    "v": {
+     "kind": "notif",
+     "items": [
+      {
+       "app": "JUROS",
+       "time": "5/11",
+       "text": "30 anos: 7,18% (Freddie Mac)"
+      },
+      {
+       "app": "REFORMA",
+       "time": "3º tri",
+       "text": "Interesse neutro, o mais fraco desde 2024 (Point)"
+      }
+     ]
+    }
+   },
+   {
+    "t": "62% de quem planeja reformar quer pagar com algo além de dinheiro (Point). O cliente quer escolher."
+   },
+   {
+    "t": "Em vez de um número só, mande 3 opções:",
+    "v": {
+     "kind": "checklist",
+     "items": [
+      "Essencial: o necessário",
+      "Recomendada: o que você indicaria",
+      "Completa: tudo que ele sonhou"
+     ]
+    }
+   },
+   {
+    "t": "O cliente para de comparar você com o outro e passa a comparar as suas opções.",
+    "v": {
+     "kind": "split",
+     "cols": [
+      {
+       "icon": "search",
+       "title": "1 preço",
+       "text": "Ele compara com o concorrente."
+      },
+      {
+       "icon": "check",
+       "title": "3 opções",
+       "text": "Ele escolhe entre as suas.",
+       "hl": true
+      }
+     ]
+    }
+   },
+   {
+    "t": "cta",
+    "h": "Quer o modelo de orçamento com 3 opções?",
+    "s": "Manda ESCOLHA no direct"
+   }
+  ]
+ },
+ {
+  "dia": 23,
+  "slot": "noite",
+  "avatar": "Cleaning",
+  "theme": "gold",
+  "slides": [
+   {
+    "t": "capa",
+    "h": "Natal chegando. Sua cliente não sabe o que dar para a mãe.",
+    "s": "",
+    "v": {
+     "kind": "icons",
+     "items": [
+      {
+       "icon": "heart",
+       "label": "Mãe"
+      },
+      {
+       "icon": "home",
+       "label": "Casa limpa"
+      },
+      {
+       "icon": "star",
+       "label": "Presente"
+      }
+     ]
+    }
+   },
+   {
+    "t": "Sábado, 28/11, é o Small Business Saturday: o dia do “compre do pequeno” nos EUA, apoiado pela SBA.",
+    "v": {
+     "kind": "calendar",
+     "month": "Novembro 2026",
+     "days": 30,
+     "marked": [
+      28
+     ]
+    }
+   },
+   {
+    "t": "Vale-presente de limpeza: filho para mãe, marido para esposa, amiga que acabou de ter bebê."
+   },
+   {
+    "t": "Só 2 opções, com preço fechado:",
+    "v": {
+     "kind": "split",
+     "cols": [
+      {
+       "icon": "home",
+       "title": "Padrão",
+       "text": "Limpeza regular."
+      },
+      {
+       "icon": "star",
+       "title": "Pesada",
+       "text": "Deep clean.",
+       "hl": true
+      }
+     ]
+    }
+   },
+   {
+    "t": "Ofereça primeiro às fixas e poste no perfil do Google no dia 28.",
+    "v": {
+     "kind": "checklist",
+     "items": [
+      "Texto para as clientes fixas",
+      "Agendamento com 1 semana de antecedência",
+      "Regra de validade do seu estado"
+     ]
+    }
+   },
+   {
+    "t": "cta",
+    "h": "Quer o modelo do vale-presente?",
+    "s": "Manda VALE no direct"
+   }
+  ]
+ },
+ {
+  "dia": 24,
+  "slot": "manha",
+  "avatar": "Cleaning",
+  "theme": "navy",
+  "slides": [
+   {
+    "t": "capa",
+    "h": "Seu custo sobe em 1º de janeiro. Seu preço também?",
+    "s": "",
+    "v": {
+     "kind": "calendar",
+     "month": "Janeiro 2027",
+     "days": 31,
+     "marked": [
+      1
+     ]
+    }
+   },
+   {
+    "t": "Salário mínimo em Connecticut a partir de 1º/1/2027:",
+    "v": {
+     "kind": "bignum",
+     "n": "17,48",
+     "label": "US$ por hora (hoje: US$ 16,94)"
+    }
+   },
+   {
+    "t": "New Jersey: US$ 16,48 (US$ 16,25 com menos de 6 funcionários). Flórida: US$ 15 desde 30/9. Massachusetts: muda a divisão do PFML."
+   },
+   {
+    "t": "Errado x certo:",
+    "v": {
+     "kind": "split",
+     "cols": [
+      {
+       "icon": "clock",
+       "title": "Errado",
+       "text": "Subir o preço no dia da limpeza."
+      },
+      {
+       "icon": "check",
+       "title": "Certo",
+       "text": "Avisar com 30 dias, data e valor.",
+       "hl": true
+      }
+     ]
+    }
+   },
+   {
+    "t": "Agradeça o ano, explique em uma frase e se coloque à disposição.",
+    "v": {
+     "kind": "chat",
+     "msgs": [
+      {
+       "text": "Hi Karen! Thank you for this year. Starting January 4, your regular cleaning will be $[new price]. Happy to answer any questions!",
+       "time": "texto · ex.",
+       "me": true
+      },
+      {
+       "text": "Thanks for letting me know!",
+       "time": "ex."
+      }
+     ]
+    }
+   },
+   {
+    "t": "cta",
+    "h": "Quer o aviso de reajuste em inglês?",
+    "s": "Manda AVISO no direct"
+   }
+  ]
+ },
+ {
+  "dia": 24,
+  "slot": "noite",
+  "avatar": "Construção",
+  "theme": "cream",
+  "slides": [
+   {
+    "t": "capa",
+    "h": "Aquele lead que nunca atende pode ter sido clique falso.",
+    "s": "",
+    "v": {
+     "kind": "notif",
+     "items": [
+      {
+       "app": "LEAD",
+       "time": "ex.",
+       "text": "Novo lead: ligação perdida"
+      },
+      {
+       "app": "LEAD",
+       "time": "ex.",
+       "text": "Número não atende",
+       "dim": true
+      }
+     ]
+    }
+   },
+   {
+    "t": "Desde 12/11, o Google Ads mostra um card novo: quanto tráfego inválido foi bloqueado e quanto voltou em crédito.",
+    "v": {
+     "kind": "icons",
+     "items": [
+      {
+       "icon": "shield",
+       "label": "Bloqueado"
+      },
+      {
+       "icon": "check",
+       "label": "Crédito"
+      },
+      {
+       "icon": "search",
+       "label": "Origem"
+      }
+     ]
+    }
+   },
+   {
+    "t": "O Google diz que não cobra tráfego inválido e que, em 2026, a exposição a leads inválidos caiu 30% em média."
+   },
+   {
+    "t": "Abra a conta e procure o card. Apareceu crédito? Vale olhar de onde vêm os cliques.",
+    "v": {
+     "kind": "checklist",
+     "items": [
+      "Abrir a visão geral da conta",
+      "Achar o card de tráfego inválido",
+      "Anotar o valor do crédito"
+     ]
+    }
+   },
+   {
+    "t": "E anote todo lead. Sem isso, você não sabe o que é real.",
+    "v": {
+     "kind": "split",
+     "cols": [
+      {
+       "icon": "phone",
+       "title": "Atendeu?",
+       "text": "Nome, telefone e data."
+      },
+      {
+       "icon": "home",
+       "title": "Virou visita?",
+       "text": "Valor do orçamento.",
+       "hl": true
+      }
+     ]
+    }
+   },
+   {
+    "t": "cta",
+    "h": "Quer a planilha simples para anotar lead?",
+    "s": "Manda CRÉDITO no direct"
+   }
+  ]
+ },
+ {
+  "dia": 25,
+  "slot": "manha",
+  "avatar": "Construção",
+  "theme": "gold",
+  "slides": [
+   {
+    "t": "capa",
+    "h": "O homeowner hesita na obra grande. Na pequena, não.",
+    "s": "",
+    "v": {
+     "kind": "split",
+     "cols": [
+      {
+       "icon": "home",
+       "title": "Grande",
+       "text": "US$ 50 mil+: índice 66."
+      },
+      {
+       "icon": "tool",
+       "title": "Pequena",
+       "text": "Até US$ 20 mil: índice 73.",
+       "hl": true
+      }
+     ]
+    }
+   },
+   {
+    "t": "Índice dos remodelers (NAHB, 3º tri 2026): projeto pequeno marcou 73; grande, 66.",
+    "v": {
+     "kind": "bignum",
+     "n": "73",
+     "label": "projetos pequenos no índice da NAHB (3º tri 2026)"
+    }
+   },
+   {
+    "t": "Cliente com medo de obra grande ainda chama para serviço menor:",
+    "v": {
+     "kind": "icons",
+     "items": [
+      {
+       "icon": "tool",
+       "label": "Pintura interna"
+      },
+      {
+       "icon": "home",
+       "label": "Piso de um cômodo"
+      },
+      {
+       "icon": "check",
+       "label": "Troca de vanity"
+      }
+     ]
+    }
+   },
+   {
+    "t": "Serviço pequeno bem feito vira review, foto e confiança. É aí que nasce a obra grande do ano que vem."
+   },
+   {
+    "t": "Monte 3 pacotes pequenos com preço “a partir de” e coloque no perfil e no site.",
+    "v": {
+     "kind": "checklist",
+     "items": [
+      "3 serviços pequenos",
+      "Preço “a partir de”",
+      "Fotos de antes e depois"
+     ]
+    }
+   },
+   {
+    "t": "cta",
+    "h": "Quer 5 ideias de serviço pequeno?",
+    "s": "Manda ENTRADA no direct"
+   }
+  ]
+ },
+ {
+  "dia": 25,
+  "slot": "noite",
+  "avatar": "Cleaning",
+  "theme": "navy",
+  "slides": [
+   {
+    "t": "capa",
+    "h": "Apareceu um botão “Book online” no seu perfil? Você não colocou.",
+    "s": "",
+    "v": {
+     "kind": "search",
+     "query": "house cleaning near me",
+     "results": [
+      {
+       "name": "Sua empresa",
+       "stars": 5,
+       "meta": "Book online · você não colocou",
+       "hl": true
+      }
+     ]
+    }
+   },
+   {
+    "t": "Desde 9/11, especialistas veem o Google colocar o botão de agendar em perfis que nunca configuraram isso.",
+    "v": {
+     "kind": "notif",
+     "items": [
+      {
+       "app": "PERFIL",
+       "time": "9/11",
+       "text": "Botão “Book online” apareceu sozinho"
+      },
+      {
+       "app": "PERFIL",
+       "time": "ex.",
+       "text": "Link leva para página de erro",
+       "dim": true
+      }
+     ]
+    }
+   },
+   {
+    "t": "Às vezes funciona. Às vezes leva para uma página de erro. Para a cliente, botão quebrado parece empresa desorganizada."
+   },
+   {
+    "t": "Confira hoje:",
+    "v": {
+     "kind": "checklist",
+     "items": [
+      "Abra o perfil logada",
+      "Clique em agendar e teste",
+      "Edite o link de agendamento"
+     ]
+    }
+   },
+   {
+    "t": "Coloque o link da sua página de contato ou de orçamento e teste deslogada.",
+    "v": {
+     "kind": "split",
+     "cols": [
+      {
+       "icon": "clock",
+       "title": "Antes",
+       "text": "Botão sem controle."
+      },
+      {
+       "icon": "check",
+       "title": "Depois",
+       "text": "Link certo e testado.",
+       "hl": true
+      }
+     ]
+    }
+   },
+   {
+    "t": "cta",
+    "h": "Quer o passo a passo?",
+    "s": "Manda AGENDAR no direct"
+   }
+  ]
+ },
+ {
+  "dia": 26,
+  "slot": "manha",
+  "avatar": "Cleaning",
+  "theme": "cream",
+  "slides": [
+   {
+    "t": "capa",
+    "h": "Dezembro lota. Sua cliente fixa já escolheu as datas dela?",
+    "s": "",
+    "v": {
+     "kind": "calendar",
+     "month": "Dezembro 2026",
+     "days": 31,
+     "marked": [
+      24,
+      31
+     ]
+    }
+   },
+   {
+    "t": "Em dezembro, a cliente recebe visita, viaja e dá festa. Quem não reserva antes fica sem data."
+   },
+   {
+    "t": "Abra a agenda de dezembro agora, primeiro para as fixas:",
+    "v": {
+     "kind": "checklist",
+     "items": [
+      "Limpeza antes do Natal",
+      "Limpeza antes do Ano-Novo",
+      "Casa pronta na volta da viagem"
+     ]
+    }
+   },
+   {
+    "t": "Fixa primeiro, nova depois:",
+    "v": {
+     "kind": "split",
+     "cols": [
+      {
+       "icon": "heart",
+       "title": "Fixas",
+       "text": "Escolhem até 30/11."
+      },
+      {
+       "icon": "star",
+       "title": "Novas",
+       "text": "Ficam com as datas que sobrarem.",
+       "hl": true
+      }
+     ]
+    }
+   },
+   {
+    "t": "Mande uma mensagem curta com as datas abertas.",
+    "v": {
+     "kind": "chat",
+     "msgs": [
+      {
+       "text": "Hi Jen! December is filling up. Want me to save a date before Christmas or New Year's?",
+       "time": "SMS · ex.",
+       "me": true
+      },
+      {
+       "text": "Dec 22, please!",
+       "time": "ex."
+      }
+     ]
+    }
+   },
+   {
+    "t": "cta",
+    "h": "Quer a mensagem pronta em inglês?",
+    "s": "Manda RESERVA no direct"
+   }
+  ]
+ },
+ {
+  "dia": 26,
+  "slot": "noite",
+  "avatar": "Construção",
+  "theme": "gold",
+  "slides": [
+   {
+    "t": "capa",
+    "h": "A ligação do seu cliente pode ser gravada. Você atenderia igual?",
+    "s": "",
+    "v": {
+     "kind": "icons",
+     "items": [
+      {
+       "icon": "phone",
+       "label": "Ligação"
+      },
+      {
+       "icon": "shield",
+       "label": "Termos"
+      },
+      {
+       "icon": "check",
+       "label": "Roteiro"
+      }
+     ]
+    }
+   },
+   {
+    "t": "Em 10/11 surgiram no Google Ads os termos de anúncio pago por lead. Só valem se você aceitar.",
+    "v": {
+     "kind": "notif",
+     "items": [
+      {
+       "app": "ANÚNCIO",
+       "time": "10/11",
+       "text": "Novos termos: anúncio pago por lead"
+      },
+      {
+       "app": "ANÚNCIO",
+       "time": "10/11",
+       "text": "Ligações podem ser gravadas"
+      }
+     ]
+    }
+   },
+   {
+    "t": "Nos termos: verificação, uso da sua marca e ligações e mensagens que podem ser gravadas. Problema com cliente continua sendo seu."
+   },
+   {
+    "t": "Atenda sempre com o mesmo roteiro:",
+    "v": {
+     "kind": "checklist",
+     "items": [
+      "Nome e empresa",
+      "Qual é o projeto e a cidade",
+      "Melhor dia para a visita",
+      "Confirmação por texto"
+     ]
+    }
+   },
+   {
+    "t": "Exemplo de abertura:",
+    "v": {
+     "kind": "chat",
+     "msgs": [
+      {
+       "text": "Hi, this is Marcos from [company]. Thanks for calling! What project are you planning?",
+       "time": "ligação · ex.",
+       "me": true
+      },
+      {
+       "text": "We want to redo our bathroom.",
+       "time": "ex."
+      }
+     ]
+    }
+   },
+   {
+    "t": "cta",
+    "h": "Quer o roteiro completo em inglês?",
+    "s": "Manda ROTEIRO no direct"
+   }
+  ]
+ },
+ {
+  "dia": 27,
+  "slot": "manha",
+  "avatar": "Construção",
+  "theme": "navy",
+  "slides": [
+   {
+    "t": "capa",
+    "h": "O Google mexeu no ranking. Não mexa no seu site no desespero.",
+    "s": "",
+    "v": {
+     "kind": "search",
+     "query": "bathroom remodel near me",
+     "results": [
+      {
+       "name": "Sua empresa",
+       "stars": 5,
+       "meta": "sobe e desce · core update",
+       "hl": true
+      }
+     ]
+    }
+   },
+   {
+    "t": "Em 10/11 o Google começou o core update de novembro. Pode levar até 2 semanas.",
+    "v": {
+     "kind": "calendar",
+     "month": "Novembro 2026",
+     "days": 30,
+     "marked": [
+      10,
+      24
+     ]
+    }
+   },
+   {
+    "t": "Nesse período a posição sobe e desce. Trocar tudo no meio só confunde."
+   },
+   {
+    "t": "O que conferir agora:",
+    "v": {
+     "kind": "checklist",
+     "items": [
+      "Site abre rápido no celular",
+      "Telefone visível no topo",
+      "Fotos reais das suas obras"
+     ]
+    }
+   },
+   {
+    "t": "Enquanto isso, o perfil do Google segue trazendo ligação.",
+    "v": {
+     "kind": "split",
+     "cols": [
+      {
+       "icon": "clock",
+       "title": "Desespero",
+       "text": "Refazer o site inteiro."
+      },
+      {
+       "icon": "camera",
+       "title": "Calma",
+       "text": "Foto de obra e resposta a review.",
+       "hl": true
+      }
+     ]
+    }
+   },
+   {
+    "t": "cta",
+    "h": "Quer o checklist de 5 itens do site?",
+    "s": "Manda RANKING no direct"
+   }
+  ]
+ },
+ {
+  "dia": 27,
+  "slot": "noite",
+  "avatar": "Cleaning",
+  "theme": "cream",
+  "slides": [
+   {
+    "t": "capa",
+    "h": "Sua cliente nunca vai estar tão feliz quanto depois da limpeza de feriado.",
+    "s": "",
+    "v": {
+     "kind": "stars",
+     "score": "5,0",
+     "label": "review de exemplo"
+    }
+   },
+   {
+    "t": "Casa pronta para a família é o melhor momento para pedir review. Peça no mesmo dia.",
+    "v": {
+     "kind": "notif",
+     "items": [
+      {
+       "app": "SMS",
+       "time": "ex.",
+       "text": "“The house looks amazing!”"
+      },
+      {
+       "app": "LEMBRETE",
+       "time": "mesmo dia",
+       "text": "Mandar o link de review"
+      }
+     ]
+    }
+   },
+   {
+    "t": "Facilite: link direto, uma frase, sem pressão.",
+    "v": {
+     "kind": "chat",
+     "msgs": [
+      {
+       "text": "So glad you loved it, Amy! Would you mind leaving a quick review? [link]",
+       "time": "SMS · ex.",
+       "me": true
+      },
+      {
+       "text": "Of course!",
+       "time": "ex."
+      }
+     ]
+    }
+   },
+   {
+    "t": "Peça que ela conte:",
+    "v": {
+     "kind": "checklist",
+     "items": [
+      "O tipo de limpeza",
+      "A cidade",
+      "O que ela mais gostou"
+     ]
+    }
+   },
+   {
+    "t": "Responda toda review em até 1 dia, em inglês, com o nome dela."
+   },
+   {
+    "t": "cta",
+    "h": "Quer as mensagens prontas em inglês?",
+    "s": "Manda ELOGIO no direct"
+   }
+  ]
+ },
+ {
+  "dia": 28,
+  "slot": "manha",
+  "avatar": "Cleaning",
+  "theme": "gold",
+  "slides": [
+   {
+    "t": "capa",
+    "h": "Ela chamou você só para o Thanksgiving. Ela pode virar fixa.",
+    "s": "",
+    "v": {
+     "kind": "split",
+     "cols": [
+      {
+       "icon": "home",
+       "title": "Uma vez",
+       "text": "Limpeza de feriado."
+      },
+      {
+       "icon": "heart",
+       "title": "Fixa",
+       "text": "A cada 2 semanas.",
+       "hl": true
+      }
+     ]
+    }
+   },
+   {
+    "t": "Quem chamou para o feriado já conhece o seu trabalho. Falta só o convite."
+   },
+   {
+    "t": "Na saída, ofereça uma data fixa:",
+    "v": {
+     "kind": "chat",
+     "msgs": [
+      {
+       "text": "Hi Rachel! Glad your house was ready for the family. Want me to keep a spot for you every other Friday?",
+       "time": "SMS · ex.",
+       "me": true
+      },
+      {
+       "text": "That would be great!",
+       "time": "ex."
+      }
+     ]
+    }
+   },
+   {
+    "t": "Deixe fácil dizer sim:",
+    "v": {
+     "kind": "checklist",
+     "items": [
+      "Dia e frequência definidos",
+      "Preço da recorrente claro",
+      "Primeira data já sugerida"
+     ]
+    }
+   },
+   {
+    "t": "Anote quem disse “talvez” e mande um lembrete em janeiro.",
+    "v": {
+     "kind": "notif",
+     "items": [
+      {
+       "app": "LEMBRETE",
+       "time": "janeiro",
+       "text": "Retomar as clientes do feriado"
+      }
+     ]
+    }
+   },
+   {
+    "t": "cta",
+    "h": "Quer o texto pronto em inglês?",
+    "s": "Manda FIXA no direct"
+   }
+  ]
+ },
+ {
+  "dia": 28,
+  "slot": "noite",
+  "avatar": "Construção",
+  "theme": "navy",
+  "slides": [
+   {
+    "t": "capa",
+    "h": "Paga o anúncio “verificado pelo Google”? Seu orçamento vai mudar de formato.",
+    "s": "",
+    "v": {
+     "kind": "notif",
+     "items": [
+      {
+       "app": "E-MAIL",
+       "time": "aviso",
+       "text": "Sua conta vai migrar em 14 dias"
+      }
+     ]
+    }
+   },
+   {
+    "t": "O LSA está indo para dentro do Google Ads. Quem atende sem loja física migra no fim de 2026; o aviso chega por e-mail 14 dias antes."
+   },
+   {
+    "t": "O orçamento semanal vira diário:",
+    "v": {
+     "kind": "bignum",
+     "n": "÷ 7",
+     "label": "semanal vira média diária; teto do mês = diária × 30,4"
+    }
+   },
+   {
+    "t": "O lance manual acaba e o histórico de relatórios não vem junto.",
+    "v": {
+     "kind": "checklist",
+     "items": [
+      "Baixar os relatórios antes",
+      "Anotar o custo por lead atual",
+      "Print das configurações"
+     ]
+    }
+   },
+   {
+    "t": "Não mude nome nem endereço do perfil agora: isso pode pausar o anúncio por 24 a 48 horas.",
+    "v": {
+     "kind": "split",
+     "cols": [
+      {
+       "icon": "clock",
+       "title": "Mudar agora",
+       "text": "Anúncio pausado."
+      },
+      {
+       "icon": "shield",
+       "title": "Esperar",
+       "text": "Anúncio rodando.",
+       "hl": true
+      }
+     ]
+    }
+   },
+   {
+    "t": "cta",
+    "h": "Quer o checklist do que salvar?",
+    "s": "Manda MIGRAÇÃO no direct"
+   }
+  ]
+ }
+]
