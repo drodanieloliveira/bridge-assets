@@ -502,10 +502,11 @@
       "dir": "posts/2026-w4/dia23-noite",
       "slides": 6,
       "approved": true,
-      "published": false,
-      "media_id": null,
+      "published": true,
+      "media_id": "18151611613567605",
       "keyword": "VALE",
-      "caption": "28/11 é o Small Business Saturday e abre a temporada de presentes. Vale-presente de limpeza é o presente que todo mundo usa.\n\nManda VALE no direct.\n\n#brasileirosnoseua #housecleaning #cleaningbusiness #smallbusinesssaturday"
+      "caption": "28/11 é o Small Business Saturday e abre a temporada de presentes. Vale-presente de limpeza é o presente que todo mundo usa.\n\nManda VALE no direct.\n\n#brasileirosnoseua #housecleaning #cleaningbusiness #smallbusinesssaturday",
+      "published_at": "2026-11-18T18:50:15-05:00"
     },
     {
       "id": "2026-w4-dia24",
